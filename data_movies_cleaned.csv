@@ -1,0 +1,816 @@
+TMDb_ID,IMDb_ID,Title,Year,Genre,Primary Genre,TMDb Rating,TMDb Votes,Popularity,Revenue,Budget,Runtime,IMDb Rating,IMDb Votes,Box Office
+1339713,tt37287335,Obsession,2026,"Horror, Thriller",Horror,7.917,841,581.7554,297445815.0,750000.0,108,8.2,50183.0,104757650.0
+931285,tt17490712,Mortal Kombat II,2026,"Action, Fantasy, Adventure",Action,7.988,1449,519.4298,128857238.0,80000000.0,116,6.7,36627.0,77767462.0
+936075,tt11378946,Michael,2026,"Music, Drama",Music,8.653,2635,503.091,934009960.0,250000000.0,128,7.7,107813.0,340068767.0
+1367220,tt33988385,Karuppu,2026,"Action, Fantasy",Action,7.059,17,384.3573,3345079.0,16000000.0,152,,,
+879945,tt16288638,The Unknown Man,2021,Drama,Drama,7.8,9,325.1904,,,23,7.0,53.0,
+1057265,tt23865918,Peddi,2026,"Action, Drama",Action,6.456,45,324.8609,,36500000.0,192,,,
+1239134,tt29540862,Bhooth Bangla,2026,"Horror, Comedy",Horror,5.238,21,362.8242,20000000.0,14000000.0,163,7.5,9969.0,950000.0
+1308553,tt30447822,Hai Jawani Toh Ishq Hona Hai,2026,"Romance, Comedy",Romance,5.474,19,252.0855,,,136,,,
+1275779,tt15047880,Disclosure Day,2026,"Thriller, Science Fiction, Mystery",Thriller,6.738,503,286.9304,120479637.0,115000000.0,145,,,
+1523145,tt38190257,Your Heart Will Be Broken,2026,Romance,Romance,7.0,96,276.5688,7578000.0,3716000.0,134,,,
+1228710,tt30825738,The Mandalorian and Grogu,2026,"Action, Adventure, Science Fiction",Action,6.757,484,224.6004,315100000.0,165000000.0,132,,,
+1226293,tt31240702,Salitan,2024,"Drama, Romance",Drama,4.375,8,336.4305,,,105,5.9,115.0,
+1226863,tt28650488,The Super Mario Galaxy Movie,2026,"Family, Comedy, Adventure, Fantasy, Animation",Family,8.2,2670,227.3499,1000843925.0,110000000.0,98,6.3,55972.0,427096185.0
+1084244,tt29355505,Toy Story 5,2026,"Animation, Family, Comedy, Adventure",Animation,7.3,80,208.1732,,250000000.0,102,,,
+1103473,tt15295368,KD – The Devil,2026,"History, Crime, Action, Fantasy",History,7.5,2,205.0936,,,141,8.6,1922.0,
+1477317,tt36958376,Your Fault: London,2026,"Romance, Drama",Romance,7.755,55,195.2676,,,123,,,
+912378,tt35518410,Dridam,2026,"Crime, Thriller",Crime,7.0,1,177.7171,77048.0,,127,7.5,1103.0,
+1280738,tt33311069,The Furious,2026,"Action, Crime",Action,7.965,43,173.3095,1400000.0,20000000.0,113,7.7,991.0,
+1007757,tt29552248,Swapped,2026,"Adventure, Animation, Family, Fantasy",Adventure,8.969,1713,156.5555,,,102,7.3,14061.0,
+1304313,tt32612507,Lee Cronin's The Mummy,2026,"Horror, Mystery",Horror,8.036,1873,159.5124,90452113.0,22000000.0,133,6.2,33540.0,29152113.0
+454639,tt0427340,Masters of the Universe,2026,"Action, Fantasy, Science Fiction",Action,7.3,242,133.2322,86387310.0,200000000.0,141,,,
+687163,tt12042730,Project Hail Mary,2026,"Science Fiction, Adventure",Science Fiction,8.687,5189,138.0221,681404846.0,200000000.0,157,8.3,333549.0,341307287.0
+1122573,tt27681354,In the Grey,2026,"Action, Thriller",Action,6.6,240,138.1508,22726621.0,70000000.0,97,6.6,6178.0,5688954.0
+1293550,tt32389930,Bandar,2026,Thriller,Thriller,7.0,1,127.9698,,,140,7.8,83.0,
+1439930,tt36042156,The Punisher: One Last Kill,2026,"Action, Drama, Crime",Action,8.346,1632,132.5083,,,51,,,
+1582770,tt39139925,Dhurandhar: The Revenge,2026,"Action, Crime, Thriller",Action,7.3,119,128.842,152900759.0,14330000.0,229,8.5,45701.0,27415192.0
+976912,tt13452544,Graphic Desires,2023,"Thriller, Crime",Thriller,6.935,92,137.9446,,,90,4.2,536.0,
+1358005,tt33397980,Office Romance,2026,"Romance, Comedy",Romance,6.535,213,107.6441,,,115,,,
+1327819,tt26443616,Hoppers,2026,"Adventure, Animation, Comedy, Family, Science Fiction",Adventure,8.182,1632,112.2734,372010783.0,150000000.0,104,7.4,37622.0,164415529.0
+1083381,tt26657236,Backrooms,2026,"Horror, Mystery, Science Fiction",Horror,6.9,609,124.9342,262595784.0,10000000.0,111,7.1,22376.0,81456295.0
+1419406,tt34610311,The Shadow's Edge,2025,"Action, Crime, Drama, Thriller",Action,7.76,865,106.3376,174400000.0,,142,7.1,8806.0,
+1380291,tt34378301,Tom Clancy's Jack Ryan: Ghost War,2026,"Action, Thriller",Action,7.1,577,112.6535,,,107,,,
+83533,tt1757678,Avatar: Fire and Ash,2025,"Science Fiction, Adventure, Fantasy",Science Fiction,7.589,3480,106.5852,1490477656.0,350000000.0,198,7.3,168453.0,404340010.0
+1536233,tt38057342,The Summoning of Baby Blue,2025,Horror,Horror,4.444,9,99.8884,,,76,,27.0,
+1431068,tt37333137,Main Vaapas Aaunga,2026,"Romance, Drama",Romance,4.0,2,128.0098,,,166,,,
+1311031,tt32820897,Demon Slayer: Kimetsu no Yaiba Infinity Castle,2025,"Animation, Action, Fantasy",Animation,7.7,866,99.7526,733030221.0,20000000.0,156,8.4,64082.0,134519077.0
+1486860,tt32875624,Haunted 3D: Echoes of the Past,2026,"Horror, Romance, Thriller",Horror,0.0,0,105.5638,,,140,,,
+1694978,tt41604789,Chum,2026,Horror,Horror,4.538,13,93.1667,,,87,,,
+1628448,tt33538438,Maa Behen,2026,"Comedy, Thriller, Drama",Comedy,6.667,10,80.0058,,,127,,,
+1288341,tt36926359,Seven Snipers,2026,"Action, Thriller",Action,5.691,34,88.4643,,,87,,,
+1290821,tt32357218,Shelter,2026,"Action, Crime, Thriller",Action,7.669,1253,87.3498,53933639.0,50000000.0,107,6.1,25305.0,12805541.0
+1318413,tt32547691,Pressure,2026,"Thriller, History, War",Thriller,7.755,49,78.0296,11301450.0,80000000.0,101,7.7,1123.0,5750000.0
+1241752,tt31589922,Rita,2024,Drama,Drama,6.0,24,87.2605,2.0,1.0,113,,372.0,
+1430077,tt35672862,Hokum,2026,Horror,Horror,6.671,242,78.3933,23563104.0,5000000.0,107,7.3,16522.0,16834886.0
+1390300,tt34685692,Over Your Dead Body,2026,"Action, Comedy, Thriller",Action,6.594,265,75.7997,2055131.0,,105,6.5,6311.0,2154696.0
+1522126,tt37738006,1000 Men and Me: The Bonnie Blue Story,2025,"Documentary, TV Movie",Documentary,5.4,21,89.6792,,,60,4.1,837.0,
+1363387,tt35050712,Saccharine,2026,Horror,Horror,6.087,23,78.0726,,,113,6.5,186.0,
+1092936,tt33382323,The Holy Boy,2025,"Horror, Thriller, Drama",Horror,6.971,137,69.8599,377925.0,4025000.0,122,6.8,617.0,
+1318447,tt16431404,Apex,2026,"Action, Thriller",Action,6.819,1480,73.2732,,,96,6.1,81156.0,
+1560681,tt38681832,Colors of Evil: Black,2026,"Thriller, Mystery, Crime",Thriller,6.73,63,64.139,,,110,,,
+1273221,tt32093575,Scary Movie,2026,"Comedy, Horror",Comedy,5.521,303,74.8385,176631924.0,30000000.0,96,,,
+969681,tt22084616,Spider-Man: Brand New Day,2026,"Science Fiction, Action, Adventure",Science Fiction,0.0,0,108.9976,,,150,,,
+1297842,tt27613895,GOAT,2026,"Animation, Comedy, Family",Animation,8.14,805,74.6025,193566330.0,90000000.0,100,6.7,15166.0,103103206.0
+4247,tt0175142,Scary Movie,2000,Comedy,Comedy,6.414,7859,71.7195,278023280.0,19000000.0,88,6.3,319036.0,157019771.0
+157336,tt0816692,Interstellar,2014,"Adventure, Drama, Science Fiction",Adventure,8.5,40044,70.1924,746606706.0,165000000.0,169,8.7,2516752.0,203227580.0
+1433117,tt37458112,Kara,2026,"Crime, Drama, Thriller",Crime,6.1,22,61.2952,,,161,,,
+350,tt0458352,The Devil Wears Prada,2006,"Drama, Comedy",Drama,7.434,13742,63.4911,326588371.0,35000000.0,109,7.0,545163.0,124740460.0
+1305781,tt32649961,Blades of the Guardians,2026,"Action, Drama, History",Action,7.008,61,65.3221,203356793.0,123000000.0,126,7.3,1400.0,1606672.0
+270473,tt3388130,Love Sick,2013,"Comedy, Romance",Comedy,5.5,2,51.4019,,,101,5.0,42.0,
+1291608,tt33014583,Dhurandhar,2025,"Action, Crime, Thriller",Action,7.244,307,65.1612,137246897.0,14330000.0,212,8.3,138488.0,19702994.0
+980431,tt18259538,Avatar Aang: The Last Airbender,2026,"Action, Adventure, Animation, Fantasy",Action,0.0,0,68.1711,,,99,,,
+1084242,tt26443597,Zootopia 2,2025,"Animation, Adventure, Comedy, Mystery, Family",Animation,7.668,2957,68.2815,1868208796.0,150000000.0,108,7.4,134332.0,428130160.0
+39254,tt0433035,Real Steel,2011,"Action, Science Fiction, Drama",Action,7.109,9232,61.5234,299300000.0,110000000.0,127,7.1,378495.0,85468508.0
+1285366,tt33349025,Shape of My Heart,2024,Romance,Romance,5.0,3,51.783,,,91,,,
+1472951,tt29218808,Infiltrate,2026,"Action, Thriller",Action,5.556,18,49.7231,,,93,3.9,276.0,
+1351908,tt33334267,Bharat Bhhagya Viddhaata,2026,"Drama, Thriller",Drama,0.0,0,68.2574,,,127,,,
+299536,tt4154756,Avengers: Infinity War,2018,"Adventure, Action, Science Fiction",Adventure,8.237,32124,51.7509,2052415039.0,300000000.0,149,8.4,1368739.0,678815482.0
+1159559,tt27047903,Scream 7,2026,"Horror, Mystery, Crime",Horror,6.2,1047,53.266,213835967.0,45000000.0,114,5.5,50291.0,121935967.0
+1292415,tt7708226,Beast,2026,"Action, Drama",Action,6.4,52,50.7747,,,115,6.2,246.0,805993.0
+980477,tt34956443,Ne Zha 2,2025,"Animation, Action, Fantasy, Adventure",Animation,8.15,718,59.7605,2259822417.0,80000000.0,144,7.9,23207.0,23308176.0
+744275,tt13069986,After We Fell,2021,"Drama, Romance",Drama,7.003,2746,53.199,21753705.0,14000000.0,99,4.8,24384.0,2170750.0
+235271,tt2205401,Addicted,2014,"Drama, Thriller",Drama,5.91,449,52.8071,17534314.0,,105,5.0,12753.0,17390770.0
+755898,tt13186306,War of the Worlds,2025,"Science Fiction, Thriller",Science Fiction,4.083,1009,51.6481,,10000000.0,91,2.5,31185.0,
+840464,tt14850054,Greenland 2: Migration,2026,"Adventure, Thriller, Science Fiction",Adventure,6.4,1216,51.7663,44856736.0,90000000.0,98,5.2,26853.0,17770308.0
+1242898,tt31227572,Predator: Badlands,2025,"Action, Science Fiction, Adventure",Action,7.792,3113,50.4479,184500000.0,105000000.0,107,7.2,143246.0,91083631.0
+1613798,tt37989803,Vengeance,2026,"Action, Thriller",Action,7.517,258,46.2989,,,103,,,
+1368166,tt27543632,The Housemaid,2025,"Mystery, Thriller",Mystery,7.254,2449,50.9384,399644671.0,35000000.0,131,6.8,133074.0,126432462.0
+460465,tt0293429,Mortal Kombat,2021,"Action, Fantasy, Adventure",Action,7.046,6794,48.3101,84426031.0,20000000.0,110,6.1,205042.0,42326031.0
+1265609,tt15940132,War Machine,2026,"Action, Science Fiction, Thriller",Action,7.391,1924,44.2612,,73000000.0,110,6.3,86956.0,
+48650,tt1263750,Room in Rome,2010,"Drama, Romance",Drama,6.405,831,52.2855,844281.0,,109,6.0,27407.0,
+1292695,tt31728330,They Will Kill You,2026,"Horror, Comedy, Action",Horror,7.042,770,47.8198,19382152.0,20000000.0,94,6.5,8025.0,10527870.0
+4258,tt0795461,Scary Movie 5,2013,Comedy,Comedy,4.797,3059,47.1735,78613981.0,20000000.0,88,3.6,81742.0,32015787.0
+1220522,tt30413898,Dacoit,2026,"Action, Romance, Thriller",Action,6.6,5,46.7063,,,150,8.1,2765.0,904531.0
+1171145,tt32430579,Crime 101,2026,"Crime, Thriller",Crime,6.998,1086,48.2365,72900246.0,90000000.0,141,6.8,56311.0,36588336.0
+1127384,tt29516222,Deep Water,2026,"Thriller, Horror",Thriller,6.28,25,47.9514,2286163.0,,107,6.9,136.0,
+1010581,tt21909764,My Fault,2023,"Drama, Romance, Thriller",Drama,7.733,4097,49.5427,,,116,6.1,43031.0,
+155,tt0468569,The Dark Knight,2008,"Action, Crime, Thriller",Action,8.531,35926,42.6252,1004558444.0,185000000.0,152,9.1,3161907.0,534987076.0
+1325734,tt33071426,The Drama,2026,"Romance, Comedy, Drama",Romance,6.968,1051,45.8059,140892471.0,28000000.0,105,7.5,26572.0,30849251.0
+1246049,tt31434030,Dracula,2025,"Horror, Fantasy, Romance",Horror,7.2,1270,44.4677,42404858.0,52000000.0,130,6.2,34913.0,13053400.0
+1294203,tt32434379,My Fault: London,2025,"Drama, Romance",Drama,7.402,579,50.8961,,,119,6.2,13668.0,
+1480387,tt35892608,undertone,2026,"Horror, Mystery",Horror,6.2,250,44.4138,21602976.0,500000.0,94,6.1,8528.0,17555961.0
+1364953,tt15284556,Mārama,2026,"Horror, Drama, Mystery",Horror,6.389,9,34.8115,,,89,6.6,435.0,6341.0
+671,tt0241527,Harry Potter and the Philosopher's Stone,2001,"Adventure, Fantasy",Adventure,7.899,29655,46.1762,976475550.0,125000000.0,152,7.7,944457.0,319765078.0
+24428,tt0848228,The Avengers,2012,"Science Fiction, Action, Adventure",Science Fiction,8.045,38403,42.1631,1518815515.0,220000000.0,143,8.0,1555308.0,623357910.0
+1002398,tt33511103,Virgin,2024,"Drama, Romance",Drama,6.7,23,42.5593,,,99,,101.0,
+1475803,tt36822418,Governor,2026,"Drama, Thriller",Drama,6.0,1,46.1719,,,122,,,
+1314481,tt33612209,The Devil Wears Prada 2,2026,"Comedy, Drama",Comedy,6.6,809,38.9371,675900000.0,100000000.0,119,6.6,53400.0,209323906.0
+1579,tt0472043,Apocalypto,2006,"Action, Drama, History",Action,7.639,6423,38.9802,120654337.0,40000000.0,138,7.8,355188.0,50866635.0
+1127656,tt35332631,Blind Love,2025,"Romance, Family, Drama",Romance,0.0,0,35.2828,,,145,,,
+1368337,tt33764258,The Odyssey,2026,"Adventure, Action, Fantasy",Adventure,0.0,0,43.0889,,250000000.0,172,,,
+1157008,tt23777188,Dime lo que quieres (de verdad),2023,"Romance, Drama, Comedy",Romance,7.773,33,39.1846,,,103,,65.0,
+4248,tt0257106,Scary Movie 2,2001,Comedy,Comedy,5.835,5212,39.4554,141220678.0,45000000.0,82,5.4,190597.0,71308997.0
+1669051,tt40705143,Kesong Puti,2026,Drama,Drama,4.0,3,41.4367,,,0,5.6,33.0,
+122,tt0167260,The Lord of the Rings: The Return of the King,2003,"Adventure, Fantasy, Action",Adventure,8.5,26656,38.1236,1118888979.0,94000000.0,201,9.0,2161991.0,386975644.0
+301528,tt1979376,Toy Story 4,2019,"Family, Comedy, Animation, Adventure",Family,7.462,10583,48.8095,1073841394.0,175000000.0,100,7.6,310352.0,434038008.0
+1266127,tt33978029,Ready or Not: Here I Come,2026,"Thriller, Horror, Comedy",Thriller,7.7,1063,35.1041,42212563.0,14000000.0,108,6.5,42167.0,22986054.0
+1507097,tt40601101,Sattendru Maarudhu Vaanilai,2026,"Thriller, Drama, Comedy, Romance",Thriller,0.0,0,45.8455,,,120,7.0,16.0,
+1198994,tt8036976,Send Help,2026,"Horror, Thriller, Comedy",Horror,7.057,1788,37.9339,94041481.0,40000000.0,113,6.9,71618.0,64734795.0
+337167,tt4477536,Fifty Shades Freed,2018,"Drama, Romance",Drama,6.672,8362,40.1031,371985018.0,55000000.0,105,4.6,80950.0,100407760.0
+1630423,tt39749979,My Dearest Assassin,2026,"Action, Drama, Romance",Action,8.656,244,36.468,,,128,,,
+1184918,tt29623480,The Wild Robot,2024,"Family, Animation, Science Fiction, Adventure",Family,8.315,6154,41.0125,331982078.0,78000000.0,102,8.2,216281.0,143901945.0
+249397,tt2382009,Nymphomaniac: Vol. II,2013,"Drama, Mystery",Drama,6.713,3190,36.0334,4934725.0,2350000.0,124,6.6,103131.0,327167.0
+634649,tt10872600,Spider-Man: No Way Home,2021,"Action, Adventure, Science Fiction",Action,7.933,22076,41.0789,2019206586.0,200000000.0,148,8.1,1017543.0,814866759.0
+1081003,tt8814476,Supergirl,2026,"Action, Adventure, Science Fiction",Action,8.5,3,37.4307,,175000000.0,108,,,
+1473332,tt36460652,No One Will Hear Your Scream,2025,"Horror, Thriller",Horror,5.375,8,31.718,,,80,,,
+803796,tt14205554,KPop Demon Hunters,2025,"Fantasy, Music, Comedy, Animation",Fantasy,8.021,2895,35.6669,24619953.0,100000000.0,96,7.4,130920.0,24300000.0
+120,tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Fantasy, Action",Adventure,8.435,27674,37.472,871368364.0,93000000.0,179,8.9,2203785.0,325873309.0
+1266990,tt32164798,Kulong,2024,Drama,Drama,6.417,18,37.3572,,,48,4.3,176.0,
+1274706,tt32129938,The Marked Woman,2026,"Thriller, Crime",Thriller,5.559,68,32.9522,,,109,5.5,1055.0,
+1330021,tt33100314,Remarkably Bright Creatures,2026,"Drama, Mystery",Drama,8.566,632,32.3025,,,114,7.8,11826.0,
+1501018,tt36963493,A Family of Bastards,2026,"Comedy, Crime",Comedy,5.257,37,34.5755,,,105,,,
+979,tt0290673,Irreversible,2002,"Drama, Thriller, Crime",Drama,7.182,3309,36.1624,6500000.0,3500000.0,93,7.3,161409.0,803491.0
+19995,tt0499549,Avatar,2009,"Science Fiction, Action, Adventure",Science Fiction,7.607,34075,36.1955,2923706026.0,237000000.0,162,7.9,1486308.0,785221649.0
+673,tt0304141,Harry Potter and the Prisoner of Azkaban,2004,"Adventure, Fantasy",Adventure,8.0,23205,35.1912,789804554.0,130000000.0,141,7.9,761199.0,250657586.0
+1641319,tt39538786,Sniper: No Nation,2026,"Action, Thriller",Action,6.518,56,30.6586,,,96,,,
+299534,tt4154796,Avengers: Endgame,2019,"Adventure, Science Fiction, Action",Adventure,8.237,27867,33.7167,2799439100.0,356000000.0,181,8.4,1442446.0,858373000.0
+1658216,tt40541157,Stepdaddy,2026,Drama,Drama,5.3,3,35.2199,,,70,5.5,64.0,
+441168,tt6237208,From Straight A's to XXX,2017,"Drama, TV Movie",Drama,5.8,162,33.9726,,,87,5.2,1873.0,
+1156594,tt33311244,Our Fault,2025,"Romance, Drama",Romance,7.381,687,37.0321,,,110,5.3,6626.0,
+1411773,tt15682498,The Last Stand of Ellen Cole,2024,"Action, Adventure",Action,7.844,45,31.7824,,,92,7.0,102.0,
+1110034,tt19838566,Kraken,2026,"Horror, Action, Thriller",Horror,6.287,155,32.7356,14329678.0,1000000.0,94,5.0,1710.0,
+674,tt0330373,Harry Potter and the Goblet of Fire,2005,"Adventure, Fantasy",Adventure,7.803,22221,35.8453,895921036.0,150000000.0,157,7.7,746138.0,291239805.0
+1558796,tt37899019,Never Change!,2026,Comedy,Comedy,6.5,4,34.1164,,,104,,,
+1320660,tt33054858,Pati Patni Aur Woh Do,2026,Comedy,Comedy,6.2,5,29.2224,,,117,,,
+1234821,tt31036941,Jurassic World Rebirth,2025,"Science Fiction, Adventure, Action",Science Fiction,6.272,3425,33.3794,869146189.0,180000000.0,134,5.8,194010.0,339640400.0
+533535,tt6263850,Deadpool & Wolverine,2024,"Action, Comedy, Science Fiction",Action,7.6,8772,34.0089,1338073645.0,200000000.0,128,7.5,565006.0,636745858.0
+27,tt0411705,9 Songs,2004,"Drama, Music, Romance",Drama,5.545,583,32.8791,1574623.0,1000000.0,70,4.7,25324.0,66853.0
+496243,tt6751668,Parasite,2019,"Comedy, Thriller, Drama",Comedy,8.494,20746,32.7631,257591776.0,11363000.0,133,8.5,1148210.0,53847897.0
+808,tt0126029,Shrek,2001,"Animation, Comedy, Fantasy, Adventure, Family",Animation,7.765,18824,32.9308,488977919.0,60000000.0,90,7.9,803764.0,268698241.0
+672,tt0295297,Harry Potter and the Chamber of Secrets,2002,"Adventure, Fantasy",Adventure,7.705,23638,35.1723,876688482.0,100000000.0,161,7.5,759564.0,263094348.0
+1375646,tt34385135,Colony,2026,"Action, Thriller, Horror",Action,6.85,61,34.7799,,12000000.0,123,7.3,357.0,
+1116201,tt27564844,Iron Lung,2026,"Horror, Mystery, Science Fiction",Horror,6.976,273,29.3385,51226173.0,4000000.0,125,6.5,19668.0,40851941.0
+1515729,tt37971394,Blast,2026,"Action, Drama, Family",Action,7.6,5,32.2541,,,143,,,
+1156593,tt28510079,Your Fault,2024,"Drama, Romance",Drama,7.1,1564,34.876,,,117,5.2,14368.0,
+519182,tt7510222,Despicable Me 4,2024,"Action, Animation, Comedy, Family, Science Fiction",Action,7.0,3219,28.3036,972021410.0,100000000.0,94,6.2,76384.0,361004205.0
+27205,tt1375666,Inception,2010,"Action, Science Fiction, Adventure",Action,8.372,39384,30.5979,839030630.0,160000000.0,148,8.8,2811614.0,292587330.0
+911430,tt16311594,F1,2025,"Action, Drama",Action,7.799,4084,33.2027,634142436.0,300000000.0,156,7.6,353753.0,189642436.0
+1207162,tt25868520,Rise of the Conqueror,2026,"History, Action, Adventure, War",History,6.063,16,28.2517,,30000000.0,119,,,
+920728,tt15359866,We Want Now,2016,Romance,Romance,0.0,0,33.9804,,,58,,,
+10193,tt0435761,Toy Story 3,2010,"Animation, Family, Comedy",Animation,7.8,15780,35.2989,1067316101.0,200000000.0,102,8.3,961588.0,415004880.0
+1038392,tt22898462,The Conjuring: Last Rites,2025,Horror,Horror,6.936,1889,30.2076,499256445.0,55000000.0,136,6.2,98159.0,177756445.0
+1146058,tt12824390,The Pout-Pout Fish,2026,"Animation, Family, Adventure, Comedy",Animation,5.8,10,28.3042,4834402.0,10000000.0,91,,,
+767,tt0417741,Harry Potter and the Half-Blood Prince,2009,"Adventure, Fantasy",Adventure,7.68,20830,30.9274,933959197.0,250000000.0,153,7.6,653701.0,302334374.0
+875828,tt15574124,Peaky Blinders: The Immortal Man,2026,"Crime, Drama",Crime,7.243,1023,25.077,,,112,6.5,74842.0,
+1233413,tt31193180,Sinners,2025,"Horror, Action, Thriller",Horror,7.5,4643,31.0776,370000000.0,100000000.0,138,7.5,472042.0,279989632.0
+675,tt0373889,Harry Potter and the Order of the Phoenix,2007,"Adventure, Fantasy",Adventure,7.672,20841,31.1134,938212738.0,150000000.0,138,7.5,693356.0,292382727.0
+1272837,tt32141377,28 Years Later: The Bone Temple,2026,"Horror, Thriller, Science Fiction",Horror,7.137,1309,29.4346,58522222.0,63000000.0,109,7.3,84391.0,25147583.0
+1084577,tt26735622,Balls Up,2026,"Comedy, Action, Adventure",Comedy,5.907,264,26.533,,,104,4.7,11568.0,
+129,tt0245429,Spirited Away,2001,"Animation, Family, Fantasy",Animation,8.535,18416,30.9662,274925095.0,19000000.0,125,8.6,964088.0,14821254.0
+1083884,tt21109170,Signal One,2026,"Mystery, Science Fiction",Mystery,6.5,19,26.3137,,,112,,,
+1301421,tt32565993,The Sheep Detectives,2026,"Comedy, Family, Mystery",Comedy,7.6,171,29.1076,115953209.0,75000000.0,109,7.7,15978.0,54536613.0
+14836,tt0327597,Coraline,2009,"Animation, Family, Fantasy",Animation,7.9,9033,29.2439,185860104.0,60000000.0,100,7.8,297596.0,116896576.0
+99861,tt2395427,Avengers: Age of Ultron,2015,"Action, Adventure, Science Fiction",Action,7.273,24494,24.1729,1405403694.0,235000000.0,141,7.3,998463.0,459005868.0
+646315,tt34510565,The Legendary Lighter,2019,Action,Action,5.8,5,21.9176,,,109,,,
+315635,tt2250912,Spider-Man: Homecoming,2017,"Action, Adventure, Science Fiction",Action,7.3,23220,29.5217,880978185.0,175000000.0,133,7.4,795043.0,334952829.0
+1699155,tt42863533,Maternal Instinct,2026,"Documentary, Crime",Documentary,7.214,35,28.2957,,,97,,,
+13078,tt0796302,The Babysitters,2008,Drama,Drama,5.998,545,26.4429,44852.0,,88,5.6,13302.0,44852.0
+47971,tt1293847,xXx: Return of Xander Cage,2017,"Action, Adventure, Crime",Action,6.131,9240,28.0083,346118277.0,85000000.0,107,5.2,101386.0,44898413.0
+1210938,tt32648798,Revelations,2025,"Thriller, Crime, Mystery",Thriller,6.379,203,26.993,,,122,6.0,4408.0,
+1168190,tt33046197,The Wrecking Crew,2026,"Action, Comedy, Crime, Mystery",Action,7.02,1077,25.7312,89000000.0,78500000.0,125,6.4,45325.0,
+425274,tt4712810,Now You See Me: Now You Don't,2025,"Crime, Thriller",Crime,6.498,1567,27.1836,243700000.0,90000000.0,112,5.9,65532.0,61882396.0
+16869,tt0361748,Inglourious Basterds,2009,"Drama, Thriller, War",Drama,8.217,24255,23.947,321457747.0,70000000.0,153,8.4,1778290.0,120540719.0
+1597280,tt31455863,Kenatha Kanom,2026,"Comedy, Drama, Family",Comedy,0.0,0,30.7469,,,116,8.1,16.0,
+38,tt0338013,Eternal Sunshine of the Spotless Mind,2004,"Science Fiction, Drama, Romance",Science Fiction,8.091,16384,24.1847,72258126.0,20000000.0,108,8.3,1166070.0,34400301.0
+1598785,tt39228706,Milky☆Subway: The Galactic Limited Express - the Movie,2026,"Animation, Action, Adventure, Comedy, Science Fiction",Animation,9.308,26,27.529,3700000.0,,46,6.6,20.0,
+1061474,tt5950044,Superman,2025,"Science Fiction, Adventure, Action",Science Fiction,7.3,4882,28.3006,618723803.0,225000000.0,130,7.0,406287.0,354223803.0
+269955,tt3303730,Obsessed,2014,"Drama, Romance",Drama,6.7,82,25.9638,,,132,6.3,3004.0,
+1688935,tt42111190,Oye Bhole Oye 2,2026,"Comedy, Drama, Action",Comedy,0.0,0,27.864,,,0,,,
+4257,tt0362120,Scary Movie 4,2006,Comedy,Comedy,5.492,3617,24.3983,178710620.0,40000000.0,83,5.1,136207.0,90710620.0
+1699574,tt41389703,Deool Band 2,2026,"Comedy, Drama",Comedy,0.0,0,25.0992,,,182,7.6,139.0,
+1530510,tt37961742,Mexico 86,2026,"Comedy, History, Drama",Comedy,7.547,74,22.5339,,,95,,,
+1316092,tt32897959,"""Wuthering Heights""",2026,"Romance, Drama",Romance,6.667,1115,22.3601,241601072.0,80000000.0,136,6.2,57394.0,84001072.0
+1439584,tt35992024,Ugly Story,2026,"Romance, Drama, Thriller",Romance,4.0,2,22.6119,,,123,9.3,536.0,
+121,tt0167261,The Lord of the Rings: The Two Towers,2002,"Adventure, Fantasy, Action",Adventure,8.4,23983,25.8968,926287400.0,79000000.0,179,8.8,1954618.0,350104956.0
+216015,tt2322441,Fifty Shades of Grey,2015,"Drama, Romance, Thriller",Drama,5.866,12411,27.5369,569651467.0,40000000.0,125,4.2,354203.0,166167230.0
+569094,tt9362722,Spider-Man: Across the Spider-Verse,2023,"Animation, Action, Adventure, Science Fiction",Animation,8.337,8678,26.079,690897910.0,100000000.0,140,8.5,509515.0,381593754.0
+1218925,tt30472557,Chainsaw Man - The Movie: Reze Arc,2025,"Animation, Action, Romance, Fantasy",Animation,8.419,942,25.533,191400000.0,4100000.0,100,8.4,35800.0,43438461.0
+1669050,tt40541183,Tayuan 2,2026,Drama,Drama,4.9,8,22.8759,,,71,6.7,43.0,
+1213898,tt30387012,Border 2,2026,"Action, Drama, War",Action,7.2,26,21.7153,21000000.0,33000000.0,201,7.3,17745.0,
+1022789,tt22022452,Inside Out 2,2024,"Animation, Adventure, Comedy, Family",Animation,7.545,6720,26.1583,1698863816.0,200000000.0,97,7.5,245290.0,652980194.0
+585,tt0198781,"Monsters, Inc.",2001,"Animation, Comedy, Family, Fantasy",Animation,7.851,19832,26.861,579700000.0,115000000.0,92,8.1,1072549.0,290642256.0
+4935,tt0347149,Howl's Moving Castle,2004,"Fantasy, Animation, Adventure",Fantasy,8.387,11131,23.2222,236049757.0,24000000.0,119,8.2,507343.0,10352604.0
+209112,tt2975590,Batman v Superman: Dawn of Justice,2016,"Action, Adventure, Fantasy",Action,6.002,19036,21.3404,874362803.0,250000000.0,152,6.4,790738.0,330360194.0
+662712,tt2304637,Flag Day,2021,"Drama, Thriller, Crime",Drama,5.75,168,24.5961,,,108,5.5,3814.0,424667.0
+1306368,tt32642706,The Rip,2026,"Action, Thriller, Crime",Action,7.082,1670,23.8344,,100000000.0,113,6.8,123010.0,
+1539104,tt38121182,JUJUTSU KAISEN: Execution,2025,"Animation, Action, Fantasy",Animation,5.955,100,25.0643,44457030.0,,88,6.5,4406.0,
+37169,tt1467304,The Human Centipede (First Sequence),2009,Horror,Horror,5.186,2398,28.9404,252207.0,2000000.0,92,4.4,94031.0,181467.0
+1628367,tt39664733,Kartavya,2026,"Crime, Drama, Thriller",Crime,6.5,19,21.5133,,,109,5.4,1932.0,
+502356,tt6718170,The Super Mario Bros. Movie,2023,"Family, Comedy, Adventure, Fantasy, Animation",Family,7.604,10806,24.3871,1360879735.0,100000000.0,93,7.0,295821.0,574934330.0
+278986,tt1436327,Gangor,2011,Drama,Drama,5.5,2,21.9456,,,92,6.0,109.0,
+829557,tt12996154,365 Days: This Day,2022,"Romance, Drama",Romance,5.942,1851,24.2218,,,110,2.7,27939.0,
+1315772,tt32890033,Minions & Monsters,2026,"Adventure, Animation, Comedy, Family, Fantasy",Adventure,9.5,1,24.6585,,,90,,,
+1196067,tt14264694,Worldbreaker,2025,"Action, Horror, Science Fiction",Action,6.087,213,23.2888,,,95,4.2,766.0,
+557,tt0145487,Spider-Man,2002,"Action, Science Fiction",Action,7.332,20726,26.7808,821708551.0,139000000.0,121,7.4,958249.0,408524875.0
+933260,tt17526714,The Substance,2024,"Horror, Science Fiction, Thriller",Horror,7.133,6068,25.7463,77316812.0,17500000.0,141,7.2,416556.0,17584795.0
+11036,tt0332280,The Notebook,2004,"Romance, Drama",Romance,7.9,12589,21.6758,115600000.0,29000000.0,123,7.8,686952.0,81417274.0
+1646787,tt39715014,Sundutan,2026,Drama,Drama,4.0,1,25.9162,,,70,,,
+98,tt0172495,Gladiator,2000,"Action, Drama, Adventure",Action,8.227,20965,24.8962,465516248.0,103000000.0,155,8.5,1844518.0,187705427.0
+1117898,tt2321555,The Cat in the Hat,2026,"Animation, Comedy, Fantasy, Adventure, Family",Animation,0.0,0,24.301,,,0,,,
+361743,tt1745960,Top Gun: Maverick,2022,"Action, Drama",Action,8.158,11047,24.2055,1488732821.0,170000000.0,131,8.2,855273.0,718732821.0
+1380126,tt34706992,Pin/Ya,2024,Drama,Drama,5.7,9,25.8648,,,60,,,
+1414413,tt32394984,Brothers Under Fire,2026,"Action, Thriller, Mystery, Drama",Action,5.9,29,24.2043,,,99,5.0,181.0,
+1632181,tt40187050,Accidental Partners,2026,"Comedy, Romance",Comedy,9.06,267,22.5694,,,110,5.6,185.0,
+1300501,tt33412884,Patriot,2026,"Action, Drama, Thriller",Action,7.1,10,21.9703,7700000.0,15000000.0,177,,,
+1316427,tt35512499,7 Dogs,2026,"Action, Comedy",Action,6.4,5,23.7059,,40000000.0,123,,,
+22,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Adventure, Fantasy, Action",Adventure,7.826,22301,23.1519,655011224.0,140000000.0,143,8.1,1323403.0,305413918.0
+396535,tt5700672,Train to Busan,2016,"Horror, Thriller, Action, Adventure",Horror,7.751,8414,23.0394,87547518.0,8500000.0,118,7.6,300921.0,2129768.0
+272,tt0372784,Batman Begins,2005,"Drama, Crime, Action",Drama,7.7,22671,19.8932,374218673.0,150000000.0,140,8.2,1709629.0,206863479.0
+575265,tt9603208,Mission: Impossible - The Final Reckoning,2025,"Action, Thriller, Adventure",Action,7.169,2865,25.0408,598767057.0,400000000.0,170,7.1,226897.0,197413515.0
+1556616,tt38897659,Summer House,2026,"Romance, Family, Drama, Mystery",Romance,7.9,10,22.4937,,,0,5.5,268.0,
+939243,tt18259086,Sonic the Hedgehog 3,2024,"Action, Science Fiction, Comedy, Family",Action,7.616,3306,22.2076,492162604.0,122000000.0,110,6.9,79715.0,236115100.0
+10138,tt1228705,Iron Man 2,2010,"Adventure, Action, Science Fiction",Adventure,6.855,22431,23.9188,623933331.0,200000000.0,124,6.9,936571.0,312433331.0
+76600,tt1630029,Avatar: The Way of Water,2022,"Action, Adventure, Science Fiction",Action,7.594,14202,22.3778,2334484620.0,460000000.0,192,7.5,601100.0,688459501.0
+640,tt0264464,Catch Me If You Can,2002,"Drama, Crime",Drama,7.978,17152,20.3331,352114312.0,52000000.0,141,8.1,1233450.0,164615351.0
+284054,tt1825683,Black Panther,2018,"Action, Adventure, Science Fiction",Action,7.364,23531,19.7945,1349926083.0,200000000.0,135,7.3,907405.0,700426566.0
+4256,tt0306047,Scary Movie 3,2003,Comedy,Comedy,5.976,4521,21.4558,220673217.0,45000000.0,84,5.6,170244.0,110003217.0
+7451,tt0295701,xXx,2002,"Action, Adventure, Thriller, Crime, Drama",Action,5.988,4930,22.7357,277448382.0,70000000.0,124,5.9,192071.0,142109382.0
+1470130,tt36647890,The Mortuary Assistant,2026,"Horror, Mystery",Horror,5.5,116,22.7211,1300011.0,,91,,,
+533533,tt6604188,TRON: Ares,2025,"Science Fiction, Adventure, Action",Science Fiction,6.497,1439,20.4038,142249983.0,220000000.0,119,6.2,78081.0,73161014.0
+1011985,tt21692408,Kung Fu Panda 4,2024,"Action, Adventure, Animation, Comedy, Family, Fantasy",Action,7.003,3532,19.1042,548040835.0,80000000.0,94,6.3,78494.0,193590620.0
+680493,tt22868010,Return to Silent Hill,2026,"Mystery, Drama, Horror",Mystery,5.415,632,21.1619,47976996.0,23000000.0,106,4.0,17409.0,5544971.0
+1295400,tt27817389,The Last Viking,2025,"Comedy, Crime, Drama",Comedy,7.263,137,18.9986,,,116,7.2,11659.0,
+1129104,tt11662534,Flavia,2026,"Family, Adventure, Mystery, Comedy",Family,6.2,5,21.7156,,,92,6.0,227.0,
+1119449,tt1341338,"Good Luck, Have Fun, Don't Die",2026,"Science Fiction, Action, Comedy",Science Fiction,7.004,570,21.5195,9755038.0,20000000.0,134,7.0,36970.0,8431443.0
+10681,tt0910970,WALL·E,2008,"Animation, Family, Science Fiction",Animation,8.114,20353,22.3987,521311860.0,180000000.0,98,8.4,1306354.0,223808164.0
+1663082,tt38782528,The Last Supper,2025,Horror,Horror,7.5,4,19.2995,,,87,,,
+1290417,tt32362890,Thrash,2026,"Horror, Thriller",Horror,6.066,641,19.3937,,,84,5.1,14495.0,
+1232889,tt24128644,Malta,2024,"Drama, Science Fiction",Drama,5.4,8,36.0552,,,97,7.0,103.0,
+950387,tt3566834,A Minecraft Movie,2025,"Family, Fantasy, Comedy, Adventure",Family,6.256,3036,21.2046,960387780.0,150000000.0,101,5.6,153774.0,424087780.0
+1087192,tt26743210,How to Train Your Dragon,2025,"Fantasy, Family, Action, Adventure",Fantasy,7.928,2875,22.4044,636351148.0,150000000.0,125,7.7,131570.0,262958100.0
+1241982,tt13622970,Moana 2,2024,"Adventure, Animation, Comedy, Family, Fantasy",Adventure,7.007,3097,22.1946,1059242164.0,150000000.0,100,6.3,125961.0,460405297.0
+77338,tt1675434,The Intouchables,2011,"Drama, Comedy",Drama,8.271,18470,24.928,426590315.0,13000000.0,113,8.5,1024790.0,10198820.0
+150540,tt2096673,Inside Out,2015,"Animation, Family, Adventure, Drama, Comedy",Animation,7.909,23507,21.2604,857611174.0,175000000.0,95,8.1,905131.0,356461711.0
+106646,tt0993846,The Wolf of Wall Street,2013,"Crime, Drama, Comedy",Crime,8.028,25986,22.2641,407038432.0,100000000.0,180,8.2,1784314.0,116900694.0
+324857,tt4633694,Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure, Science Fiction",Animation,8.393,17304,20.5561,394884133.0,90000000.0,117,8.4,777014.0,190241310.0
+872585,tt15398776,Oppenheimer,2023,"Drama, History",Drama,8.0,11863,23.0112,952000000.0,100000000.0,181,8.2,1024033.0,330078895.0
+12153,tt0381707,White Chicks,2004,"Comedy, Crime",Comedy,6.9,4558,21.4164,113100000.0,37000000.0,109,5.9,190250.0,70831760.0
+1511057,tt37540875,Roommates,2026,Comedy,Comedy,6.569,130,16.7345,,,108,5.7,2181.0,
+508642,tt8119752,Gonjiam: Haunted Asylum,2018,"Horror, Mystery",Horror,7.278,942,21.3186,21041950.0,,95,6.5,22725.0,115252.0
+12445,tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure, Fantasy",Adventure,8.079,22028,19.5573,1341511219.0,125000000.0,130,8.1,1035967.0,381884297.0
+537915,tt4126476,After,2019,"Drama, Romance",Drama,7.106,8528,19.9841,69497587.0,14000000.0,106,5.3,75034.0,12138565.0
+244786,tt2582802,Whiplash,2014,"Drama, Music, Thriller",Drama,8.375,16677,21.2186,50307484.0,3300000.0,107,8.5,1134459.0,14003391.0
+438631,tt1160419,Dune,2021,"Science Fiction, Adventure",Science Fiction,7.779,14970,22.5697,410668500.0,165000000.0,155,8.0,1038179.0,108897830.0
+1726,tt0371746,Iron Man,2008,"Action, Science Fiction, Adventure",Action,7.662,28200,19.5613,585174222.0,140000000.0,126,7.9,1223183.0,319034126.0
+9806,tt0317705,The Incredibles,2004,"Action, Adventure, Animation, Family",Action,7.726,18939,19.2165,631442092.0,92000000.0,115,8.0,891503.0,261441092.0
+269149,tt2948356,Zootopia,2016,"Animation, Adventure, Family, Comedy",Animation,7.763,18163,20.5807,1025521689.0,150000000.0,109,8.0,625023.0,341268248.0
+858024,tt14905854,Hamnet,2025,"Drama, Romance, History",Drama,7.7,1393,23.7401,107756183.0,30000000.0,125,7.8,109507.0,24208900.0
+1247165,tt31390893,Raja Shivaji,2026,"Action, History, Drama",Action,9.0,1,18.3197,15600000.0,9000000.0,195,,,
+429617,tt6320628,Spider-Man: Far From Home,2019,"Action, Adventure, Science Fiction",Action,7.396,17002,25.1858,1132723226.0,160000000.0,129,7.3,637793.0,391283774.0
+181808,tt2527336,Star Wars: The Last Jedi,2017,"Adventure, Action, Science Fiction",Adventure,6.75,16368,22.4446,1334407706.0,300000000.0,152,6.8,714411.0,620181382.0
+354912,tt2380307,Coco,2017,"Family, Animation, Music, Adventure",Family,8.198,21028,20.4469,814641172.0,175000000.0,105,8.4,704092.0,210460015.0
+411,tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"Adventure, Family, Fantasy",Adventure,7.137,11517,20.3498,745013115.0,180000000.0,143,6.9,450246.0,291710957.0
+1197306,tt9150192,A Working Man,2025,"Action, Crime, Thriller",Action,6.696,1943,20.437,89400711.0,40000000.0,116,5.7,76249.0,37000711.0
+414906,tt1877830,The Batman,2022,"Crime, Mystery, Thriller",Crime,7.66,11996,20.816,772775278.0,185000000.0,177,7.8,923764.0,369801546.0
+693134,tt15239678,Dune: Part Two,2024,"Science Fiction, Adventure",Science Fiction,8.1,8041,21.7486,714844358.0,190000000.0,167,8.4,734902.0,282144358.0
+335984,tt1856101,Blade Runner 2049,2017,"Science Fiction, Drama",Science Fiction,7.595,15203,20.9751,259239658.0,150000000.0,164,8.0,751317.0,92071675.0
+335984,tt1856101,Blade Runner 2049,2017,"Science Fiction, Drama",Science Fiction,7.595,15204,20.9751,259239658.0,150000000.0,164,8.0,751317.0,92071675.0
+138843,tt1457767,The Conjuring,2013,"Horror, Thriller",Horror,7.54,12751,19.6945,321293998.0,13000000.0,112,7.5,620597.0,137446368.0
+1408208,tt35222590,Exit 8,2025,"Horror, Mystery",Horror,6.818,466,19.8543,43891675.0,1400000.0,95,6.4,14034.0,2153941.0
+406997,tt2543472,Wonder,2017,"Family, Drama",Family,8.106,8266,21.0396,315025930.0,20000000.0,113,7.9,195058.0,132422809.0
+6312,tt0237534,Brotherhood of the Wolf,2001,"Adventure, Horror, Action, History",Adventure,6.7,1734,28.8775,70800000.0,29000000.0,151,7.0,76333.0,11274610.0
+1236153,tt31050594,Mercy,2026,"Science Fiction, Action, Thriller",Science Fiction,7.042,1390,18.3302,54708061.0,60000000.0,99,6.2,56372.0,24390303.0
+617126,tt10676052,The Fantastic 4: First Steps,2025,"Science Fiction, Adventure, Action",Science Fiction,6.962,3405,21.8924,521858728.0,229600000.0,115,6.8,258601.0,274286610.0
+950396,tt13654226,The Gorge,2025,"Romance, Science Fiction, Thriller",Romance,7.649,3796,18.4846,,70000000.0,128,6.7,169186.0,
+177572,tt2245084,Big Hero 6,2014,"Adventure, Family, Animation, Action, Comedy",Adventure,7.725,16618,19.9957,657870525.0,165000000.0,102,7.8,548572.0,222527828.0
+1404791,tt35276942,Dollhouse,2025,"Horror, Mystery",Horror,7.605,95,18.3916,11547839.0,,110,,111.0,
+68726,tt1663662,Pacific Rim,2013,"Action, Science Fiction, Adventure",Action,6.93,13421,20.1785,411000000.0,180000000.0,131,6.9,555685.0,101802906.0
+330457,tt4520988,Frozen II,2019,"Family, Animation, Adventure, Comedy, Fantasy",Family,7.23,10303,20.7683,1453683476.0,150000000.0,103,6.8,216694.0,477373578.0
+1613650,tt36120705,El fantasma de mi mujer,2026,Comedy,Comedy,4.7,3,18.6299,,,90,,,
+1084187,tt26678938,Pretty Lethal,2026,"Music, Thriller, Action, Horror",Music,6.759,407,18.0854,,,90,5.8,10515.0,
+68721,tt1300854,Iron Man 3,2013,"Action, Adventure, Science Fiction",Action,6.933,23466,19.041,1215577205.0,200000000.0,130,7.1,964747.0,409013994.0
+58,tt0383574,Pirates of the Caribbean: Dead Man's Chest,2006,"Adventure, Fantasy, Action",Adventure,7.381,17212,19.1317,1066179747.0,200000000.0,151,7.4,825206.0,423315812.0
+72190,tt0816711,World War Z,2013,"Action, Horror, Science Fiction",Action,6.836,16626,17.3061,531865000.0,200000000.0,116,7.0,778104.0,202807711.0
+10867,tt0213847,Malena,2000,Drama,Drama,7.501,2668,18.5079,14493284.0,,108,7.4,123235.0,3448233.0
+1495,tt0320661,Kingdom of Heaven,2005,"Drama, Action, Adventure, History, War",Drama,7.1,5003,17.7673,218366336.0,130000000.0,144,7.3,347384.0,47527678.0
+1340110,tt33295741,Redux Redux,2025,"Science Fiction, Thriller, Horror, Crime",Science Fiction,6.704,147,15.8933,,,109,6.3,2074.0,
+378064,tt5323662,A Silent Voice: The Movie,2016,"Animation, Drama, Romance",Animation,8.389,4515,16.8954,30819442.0,,129,8.2,137111.0,1079689.0
+8358,tt0162222,Cast Away,2000,"Adventure, Drama",Adventure,7.663,12296,16.4982,429632142.0,90000000.0,143,7.8,676631.0,233632142.0
+1584215,tt38238651,The Internship,2026,Action,Action,6.3,80,26.5701,,,91,4.1,772.0,
+662707,tt1742179,Starbright,2026,"Adventure, Action",Adventure,5.921,19,16.9443,,30000000.0,148,,,
+1108427,tt27419466,Moana,2026,"Family, Fantasy, Comedy, Adventure",Family,0.0,0,16.5843,,200000000.0,115,,,
+991494,tt23572848,The SpongeBob Movie: Search for SquarePants,2025,"Adventure, Animation, Comedy, Family, Fantasy",Adventure,6.9,300,18.6983,163197450.0,64000000.0,88,5.7,6073.0,70484958.0
+259316,tt3183660,Fantastic Beasts and Where to Find Them,2016,"Fantasy, Adventure",Fantasy,7.309,19730,16.3965,809342332.0,180000000.0,133,7.2,537711.0,234037575.0
+912649,tt16366836,Venom: The Last Dance,2024,"Science Fiction, Action, Adventure",Science Fiction,6.672,4259,19.2757,478937618.0,120000000.0,109,6.0,149838.0,139755882.0
+50619,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,2011,"Adventure, Fantasy, Romance",Adventure,6.189,9281,18.2169,712171856.0,110000000.0,117,4.9,271400.0,281797623.0
+1368881,tt34611082,Ladies First,2026,"Comedy, Fantasy",Comedy,5.984,340,17.1805,,,94,5.8,16459.0,
+1340206,tt33296751,Tuner,2026,"Crime, Thriller",Crime,6.9,61,16.6003,1896557.0,7000000.0,107,7.3,267.0,
+285,tt0449088,Pirates of the Caribbean: At World's End,2007,"Adventure, Fantasy, Action",Adventure,7.273,15503,19.2718,961691209.0,300000000.0,169,7.2,743246.0,309420425.0
+285,tt0449088,Pirates of the Caribbean: At World's End,2007,"Adventure, Fantasy, Action",Adventure,7.273,15503,19.2718,961691209.0,300000000.0,169,7.2,743246.0,309420425.0
+541671,tt7181546,Ballerina,2025,"Action, Thriller, Crime",Action,7.3,2666,18.028,137408107.0,90000000.0,125,6.8,148470.0,58051327.0
+1571594,tt34437490,The Photographer,2025,"Horror, Thriller",Horror,6.5,4,16.3267,,,70,,,
+666277,tt13238346,Past Lives,2023,"Drama, Romance",Drama,7.7,2337,16.3372,28126646.0,12000000.0,106,7.8,171844.0,11331983.0
+2062,tt0382932,Ratatouille,2007,"Animation, Comedy, Family, Fantasy",Animation,7.843,18534,18.1308,623726000.0,150000000.0,111,8.1,940588.0,206445654.0
+210577,tt2267998,Gone Girl,2014,"Mystery, Thriller, Drama",Mystery,7.89,20014,19.8742,370890259.0,61000000.0,149,8.1,1166585.0,167767189.0
+1371023,tt34498111,Chand Mera Dil,2026,"Romance, Drama",Romance,5.4,4,16.554,,,142,,,
+1234731,tt33244668,Anaconda,2025,"Adventure, Comedy, Horror",Adventure,5.884,1222,18.6392,135148320.0,45000000.0,100,5.6,55645.0,65098148.0
+425,tt0268380,Ice Age,2002,"Animation, Comedy, Family, Adventure",Animation,7.377,14328,18.4123,383257136.0,59000000.0,82,7.5,560233.0,176387405.0
+1417285,tt39392225,The Stain,2026,"Horror, Thriller, Romance",Horror,4.0,2,18.3504,,,105,,,
+346698,tt1517268,Barbie,2023,"Comedy, Adventure, Fantasy",Comedy,6.9,11156,18.0542,1447138421.0,145000000.0,114,6.8,667737.0,636238421.0
+1083637,tt26439764,Kantara - A Legend: Chapter 1,2025,"Action, Drama, Fantasy",Action,7.19,84,18.0544,91000000.0,14000000.0,165,8.5,41331.0,540000.0
+43949,tt0817177,Flipped,2010,"Romance, Drama",Romance,8.01,3336,15.6701,4324817.0,14000000.0,89,7.7,106584.0,1755212.0
+652,tt0332452,Troy,2004,"War, Action, History",War,7.176,11092,17.234,497409852.0,175000000.0,163,7.3,609875.0,133378256.0
+12444,tt0926084,Harry Potter and the Deathly Hallows: Part 1,2010,"Adventure, Fantasy",Adventure,7.734,20420,18.3045,954305868.0,250000000.0,146,7.7,659115.0,296374621.0
+1228246,tt30274401,Five Nights at Freddy's 2,2025,"Horror, Thriller",Horror,6.644,991,18.3565,239568877.0,36000000.0,104,5.1,37816.0,127730290.0
+1481041,tt36277018,Ginny Wedss Sunny 2,2026,"Romance, Comedy, Drama",Romance,0.0,0,13.8577,,,134,,,
+1538497,tt38077943,Hexed,2026,"Adventure, Animation, Family, Fantasy",Adventure,0.0,0,13.6316,,,0,,,
+603692,tt10366206,John Wick: Chapter 4,2023,"Action, Thriller, Crime",Action,7.709,7977,18.7357,447316405.0,100000000.0,170,7.6,405485.0,187131806.0
+1062722,tt1312221,Frankenstein,2025,"Drama, Fantasy, Horror",Drama,7.637,3508,16.7265,480678.0,120000000.0,150,7.4,308622.0,
+76341,tt1392190,Mad Max: Fury Road,2015,"Action, Adventure, Science Fiction",Action,7.634,24136,16.9462,378858340.0,150000000.0,121,8.1,1198396.0,154280290.0
+324786,tt2119532,Hacksaw Ridge,2016,"Drama, History, War",Drama,8.19,14895,19.6088,175302354.0,40000000.0,139,8.1,679234.0,67209615.0
+39688,tt0470715,Like a Brother,2005,"Drama, Romance",Drama,4.2,24,24.648,,,54,5.7,1014.0,
+519465,tt8378126,Queen of Hearts,2019,Drama,Drama,6.905,380,17.3032,,19000000.0,127,7.0,16466.0,
+1358280,tt32881248,Taboo: Family Secrets,2024,"Romance, Drama, Thriller",Romance,5.2,8,18.0132,,,95,,,
+12,tt0266543,Finding Nemo,2003,"Animation, Family, Adventure",Animation,7.819,20597,17.6337,940335536.0,94000000.0,100,8.2,1196544.0,380843261.0
+290098,tt4016934,The Handmaiden,2016,"Thriller, Drama, Romance",Thriller,8.187,4340,19.2829,38600000.0,8575000.0,145,8.1,199145.0,2006788.0
+829560,tt21106646,The Next 365 Days,2022,"Romance, Drama",Romance,6.373,1323,18.1447,,,112,2.9,12011.0,
+73861,tt1273235,A Serbian Film,2010,"Crime, Horror, Thriller",Crime,5.4,2217,17.5169,,,104,4.9,79352.0,
+1510769,tt37737315,29,2026,"Romance, Comedy, Drama",Romance,7.167,6,17.0918,,,149,9.2,416.0,
+1115544,tt27552099,Mike & Nick & Nick & Alice,2026,"Comedy, Science Fiction, Crime",Comedy,6.725,362,16.4604,,,107,6.2,15353.0,
+1115544,tt27552099,Mike & Nick & Nick & Alice,2026,"Comedy, Science Fiction, Crime",Comedy,6.725,362,16.4604,,,107,6.2,15353.0,
+1317672,tt36331860,Love Me Love Me,2026,"Romance, Drama",Romance,5.963,269,17.2612,,,99,4.2,2971.0,
+198663,tt1790864,The Maze Runner,2014,"Action, Mystery, Science Fiction, Thriller",Action,7.2,18142,17.149,348319861.0,34000000.0,113,6.8,557043.0,102427862.0
+14324,tt0437954,Virgin Territory,2007,"Adventure, Action, Comedy, Romance",Adventure,5.0,371,15.6885,5410749.0,38000000.0,93,4.7,9504.0,
+1119090,tt36639986,I Am Frankelda,2025,"Animation, Family, Fantasy, Horror, Adventure",Animation,8.3,91,17.4803,2709440.0,,104,7.3,1029.0,
+545611,tt6710474,Everything Everywhere All at Once,2022,"Action, Adventure, Science Fiction",Action,7.719,8024,17.7773,139200000.0,25000000.0,140,7.7,627115.0,77191785.0
+1551003,tt38218065,R.L. Stine's Pumpkinhead,2025,"Horror, Fantasy",Horror,7.036,28,16.4086,,,91,5.8,1163.0,
+3933,tt0121164,Corpse Bride,2005,"Romance, Fantasy, Animation",Romance,7.591,10212,17.9113,118133252.0,40000000.0,77,7.4,324184.0,53401527.0
+1352310,tt35315322,Rodrigue in Love,2025,"Comedy, Family",Comedy,6.2,138,16.9894,,,102,,,
+15356,tt0830558,The Girl Next Door,2007,"Thriller, Crime, Drama, Horror",Thriller,6.653,786,18.8731,,,91,6.5,31256.0,
+1706197,tt42995023,Scandal Queen,2026,Drama,Drama,7.5,2,18.1953,,,71,6.0,11.0,
+424783,tt4701182,Bumblebee,2018,"Action, Adventure, Science Fiction",Action,6.721,6640,13.219,467989645.0,135000000.0,114,6.7,205892.0,127195589.0
+848116,tt14993250,Rocky Aur Rani Kii Prem Kahaani,2023,"Comedy, Drama, Family, Romance",Comedy,6.152,88,16.0375,,,168,6.5,48224.0,
+217,tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,2008,"Adventure, Action",Adventure,6.027,9037,13.2886,786636033.0,185000000.0,122,6.2,511928.0,317101119.0
+8966,tt1099212,Twilight,2008,"Fantasy, Drama, Romance",Fantasy,6.281,14430,16.3145,393616788.0,37000000.0,122,5.4,522520.0,195553813.0
+1003596,tt21357150,Avengers: Doomsday,2026,"Science Fiction, Action, Adventure",Science Fiction,0.0,0,18.1483,,,0,,,
+798645,tt14107334,The Running Man,2025,"Action, Thriller, Science Fiction",Action,6.784,1639,16.5727,69000000.0,110000000.0,133,6.4,92947.0,37815641.0
+1252309,tt31723358,Tell Me What You Want,2024,"Romance, Drama",Romance,6.153,291,17.2157,2265661.0,,114,3.9,2019.0,
+574475,tt9619824,Final Destination Bloodlines,2025,"Horror, Mystery",Horror,7.0,2886,17.2738,317854739.0,50000000.0,110,6.7,160018.0,138254739.0
+818647,tt14463484,Through My Window,2022,"Romance, Drama, Comedy",Romance,7.351,3348,15.5022,,,112,5.5,23657.0,
+122917,tt2310332,The Hobbit: The Battle of the Five Armies,2014,"Action, Adventure, Fantasy",Action,7.334,15404,16.8059,956019788.0,250000000.0,144,7.4,617163.0,255138261.0
+741110,tt11229766,Dreamchild,2020,"Drama, Romance",Drama,5.6,28,13.8167,,,107,5.9,166.0,
+1383731,tt34471850,Protector,2026,"Action, Thriller",Action,8.426,278,15.5337,1969113.0,,90,5.3,807.0,1290170.0
+263115,tt3315342,Logan,2017,"Action, Drama, Science Fiction",Action,7.82,20436,17.8594,619021436.0,97000000.0,137,8.1,917281.0,226277068.0
+4588,tt0808357,"Lust, Caution",2007,"Action, Drama, Romance, Thriller",Action,7.274,808,17.7324,67100000.0,15000000.0,158,7.5,48088.0,4604982.0
+1075175,tt22890246,How to Have Sex,2023,Drama,Drama,6.231,506,17.1857,1216642.0,,91,6.4,22391.0,167725.0
+246403,tt3099498,Tusk,2014,"Comedy, Horror",Comedy,5.534,1638,18.5631,1882074.0,3000000.0,102,5.4,70938.0,1826705.0
+62177,tt1217209,Brave,2012,"Adventure, Animation, Family, Fantasy",Adventure,7.029,14206,16.9163,538983207.0,185000000.0,93,7.1,475578.0,237283207.0
+1402,tt0454921,The Pursuit of Happyness,2006,Drama,Drama,7.886,10621,15.9356,307077295.0,55000000.0,117,8.0,614482.0,163566459.0
+315162,tt3915174,Puss in Boots: The Last Wish,2022,"Animation, Adventure, Fantasy, Comedy, Family",Animation,8.2,8884,16.304,484700000.0,90000000.0,103,7.8,218530.0,186090535.0
+572802,tt9663764,Aquaman and the Lost Kingdom,2023,"Action, Adventure, Fantasy",Action,6.5,3505,18.1457,440181226.0,205000000.0,124,5.6,117603.0,124481226.0
+1022787,tt4900148,Elio,2025,"Adventure, Animation, Comedy, Family, Science Fiction",Adventure,6.919,1005,13.7587,154291182.0,150000000.0,98,6.6,45380.0,72987454.0
+1387382,tt32537226,Hunting Season,2025,"Action, Drama, Thriller",Action,7.0,246,16.6817,,,93,5.7,3198.0,
+378236,tt4877122,The Emoji Movie,2017,"Animation, Family, Comedy",Animation,5.387,3325,17.2473,216909830.0,50000000.0,86,3.5,76999.0,86089513.0
+17073,tt1058058,American Swing,2009,Documentary,Documentary,5.1,18,14.4699,,,81,6.2,787.0,30156.0
+107257,tt1823059,A Perfect Ending,2012,"Drama, Romance",Drama,6.239,138,15.1795,,175000.0,110,5.6,5085.0,
+1167307,tt15678738,David,2025,"Animation, Drama, Family, History",Animation,8.1,151,16.8883,85865995.0,60900000.0,109,6.9,5510.0,80382774.0
+20352,tt1323594,Despicable Me,2010,"Animation, Comedy, Crime, Family, Science Fiction",Animation,7.258,16079,16.4826,543284256.0,69000000.0,95,7.6,628264.0,251683815.0
+338953,tt4123432,Fantastic Beasts: The Secrets of Dumbledore,2022,"Fantasy, Adventure",Fantasy,6.627,5114,13.258,407200000.0,200000000.0,142,6.2,191265.0,95850844.0
+9567,tt0314353,Tears of the Sun,2003,"War, Action, Drama",War,6.89,2627,13.5913,86500000.0,75000000.0,121,6.6,137079.0,43734876.0
+17654,tt1136608,District 9,2009,Science Fiction,Science Fiction,7.469,10370,12.8464,210888950.0,30000000.0,112,7.9,748028.0,115646235.0
+508883,tt6587046,The Boy and the Heron,2023,"Animation, Fantasy, Drama",Animation,7.402,2648,15.3206,294200000.0,50000000.0,124,7.3,123968.0,47343204.0
+1078605,tt26581740,Weapons,2025,"Horror, Mystery",Horror,7.26,3490,16.6456,269972492.0,38000000.0,128,7.4,349399.0,151572492.0
+9502,tt0441773,Kung Fu Panda,2008,"Action, Animation, Comedy, Family",Action,7.325,12676,16.8776,632091832.0,130000000.0,90,7.6,574537.0,216064546.0
+2251,tt0250797,Unfaithful,2002,"Thriller, Drama, Romance",Thriller,6.702,1732,16.3035,119137784.0,50000000.0,124,6.7,106118.0,52775765.0
+619803,tt15838850,The Roundup,2022,"Action, Crime, Thriller, Adventure",Action,7.34,440,13.7943,101166707.0,7600000.0,106,7.0,14815.0,812859.0
+1219739,tt27524853,Heresy,2024,"Drama, Horror, Mystery",Drama,6.25,26,54.3742,,,61,,,
+1930,tt0948470,The Amazing Spider-Man,2012,"Action, Adventure, Science Fiction",Action,6.739,18557,17.4948,758725893.0,215000000.0,136,6.9,763493.0,262782352.0
+1549519,tt38080080,Sex Trip,2026,Drama,Drama,6.0,4,16.2895,,,75,,,
+72559,tt1583421,G.I. Joe: Retaliation,2013,"Action, Science Fiction, Adventure, Thriller",Action,5.658,5782,11.3918,371900000.0,130000000.0,110,5.7,192513.0,122523060.0
+385687,tt5433140,Fast X,2023,"Action, Crime, Thriller",Action,6.994,6343,16.9666,704709660.0,340000000.0,142,5.7,145538.0,146126015.0
+1242265,tt31189814,Fuze,2026,"Action, Crime, Drama, Thriller",Action,6.453,129,17.9795,2890908.0,45000000.0,96,6.4,1075.0,
+801335,tt13269536,Girl in the Basement,2021,"Thriller, Crime, TV Movie",Thriller,7.562,869,17.2501,,,88,6.3,17040.0,
+985939,tt15325794,Fall,2022,Thriller,Thriller,7.14,4638,15.4457,17363261.0,3000000.0,107,6.4,132169.0,7240521.0
+1242332,tt31195136,Normal,2026,"Action, Crime, Thriller",Action,6.5,166,16.7392,5978949.0,10000000.0,91,6.9,997.0,
+1252051,tt32601650,Disforia,2025,"Horror, Thriller",Horror,4.556,9,13.4532,,,82,,23.0,
+1241634,tt28037987,Saiyaara,2025,"Romance, Drama, Music",Romance,6.412,142,15.7311,63539300.0,5500000.0,150,6.3,54249.0,3359480.0
+552524,tt11655566,Lilo & Stitch,2025,"Family, Science Fiction, Comedy",Family,7.207,2178,17.7027,1038027526.0,100000000.0,108,6.7,93833.0,423778855.0
+467905,tt4357198,How to Make a Killing,2026,"Comedy, Thriller",Comedy,7.1,449,15.0504,21236094.0,15000000.0,105,6.5,24261.0,7851600.0
+847742,tt14113634,Drishyam 3,2026,"Crime, Drama, Thriller",Crime,7.313,8,25.8887,,21000000.0,157,,,
+20526,tt1104001,TRON: Legacy,2010,"Adventure, Action, Science Fiction",Adventure,6.543,7949,13.1596,409912892.0,170000000.0,126,6.8,386829.0,172062763.0
+1336770,tt33245761,Vaazha II,2026,"Comedy, Drama",Comedy,7.318,11,13.9283,21181760.0,1079884.0,162,,,
+38757,tt0398286,Tangled,2010,"Animation, Family, Adventure",Animation,7.613,12422,15.7577,592461732.0,260000000.0,100,7.7,540207.0,200821936.0
+1368314,tt33763941,Passenger,2026,"Horror, Thriller",Horror,6.3,70,15.8406,31002808.0,15000000.0,94,,,
+1352874,tt32059878,The Crucifix: Blood of the Exorcist,2025,Horror,Horror,5.603,58,14.5763,82873.0,100000.0,92,,71.0,
+109445,tt2294629,Frozen,2013,"Animation, Family, Adventure, Fantasy",Animation,7.2,17603,15.937,1274219009.0,150000000.0,102,7.4,708011.0,400953009.0
+475557,tt7286456,Joker,2019,"Crime, Thriller, Drama",Crime,8.1,27793,15.2732,1078958629.0,55000000.0,122,8.3,1690149.0,335477657.0
+1865,tt1298650,Pirates of the Caribbean: On Stranger Tides,2011,"Adventure, Action, Fantasy",Adventure,6.57,14985,15.3145,1046721266.0,379000000.0,136,6.6,606603.0,241071802.0
+1865,tt1298650,Pirates of the Caribbean: On Stranger Tides,2011,"Adventure, Action, Fantasy",Adventure,6.57,14985,15.3145,1046721266.0,379000000.0,136,6.6,606603.0,241071802.0
+49051,tt0903624,The Hobbit: An Unexpected Journey,2012,"Adventure, Fantasy, Action",Adventure,7.376,19679,16.0525,1021103568.0,250000000.0,169,7.8,926871.0,303030651.0
+1197137,tt29644189,Black Phone 2,2025,"Horror, Thriller",Horror,6.7,1153,13.5611,132675749.0,30000000.0,114,6.1,58077.0,77378880.0
+664413,tt10886166,365 Days,2020,"Romance, Drama, Crime",Romance,6.992,9527,16.0001,9458590.0,,114,3.3,106045.0,
+18785,tt1119646,The Hangover,2009,Comedy,Comedy,7.332,18135,15.4014,469310836.0,35000000.0,100,7.7,922266.0,277339746.0
+1372,tt0450259,Blood Diamond,2006,"Drama, Thriller, Action",Drama,7.561,8346,12.0312,171720398.0,100000000.0,143,8.0,624901.0,57377916.0
+1159831,tt30851137,The Bride!,2026,"Science Fiction, Horror, Fantasy",Science Fiction,6.2,519,15.1957,23944025.0,80000000.0,127,5.7,25722.0,12744025.0
+8355,tt1080016,Ice Age: Dawn of the Dinosaurs,2009,"Animation, Comedy, Family, Adventure",Animation,6.769,8886,15.7862,886686817.0,90000000.0,94,6.9,283955.0,196573705.0
+14869,tt1046173,G.I. Joe: The Rise of Cobra,2009,"Adventure, Action, Thriller, Science Fiction",Adventure,5.785,4932,11.6734,302500000.0,175000000.0,118,5.7,220928.0,150201498.0
+1669057,tt41698360,Check-In,2026,Drama,Drama,5.0,2,17.2142,,,0,6.7,22.0,
+1659087,tt40891145,180,2026,"Thriller, Crime, Drama, TV Movie",Thriller,5.767,120,12.1051,,,94,4.6,153.0,
+255709,tt3153634,Hope,2013,Drama,Drama,8.402,863,14.9168,,,122,8.2,11399.0,
+278154,tt3416828,Ice Age: Collision Course,2016,"Adventure, Animation, Family, Comedy, Science Fiction",Adventure,6.115,4883,15.8653,408579038.0,105000000.0,95,5.7,84930.0,64063008.0
+1416391,tt34498610,Toaster,2026,"Comedy, Crime, Action",Comedy,5.815,27,12.1127,,,126,,,
+823464,tt14539740,Godzilla x Kong: The New Empire,2024,"Action, Adventure, Science Fiction",Action,7.047,4692,14.6035,571750016.0,150000000.0,115,6.0,135918.0,196350016.0
+76726,tt1706593,Chronicle,2012,"Science Fiction, Drama, Thriller",Science Fiction,6.854,5746,12.3659,145000000.0,15000000.0,84,7.0,276134.0,64575175.0
+1557848,tt37536947,The Sleeper,2025,"Action, Thriller, Drama",Action,6.0,5,11.9389,3700000.0,,123,,,
+11324,tt1130884,Shutter Island,2010,"Drama, Thriller, Mystery",Drama,8.198,25913,15.1836,294804195.0,80000000.0,138,8.2,1644111.0,128012934.0
+466272,tt7131622,Once Upon a Time... in Hollywood,2019,"Comedy, Drama, Thriller",Comedy,7.421,14886,14.7104,393869691.0,95000000.0,162,7.6,959546.0,142502728.0
+14160,tt1049413,Up,2009,"Animation, Comedy, Family, Adventure",Animation,8.0,21713,16.6024,735103954.0,175000000.0,96,8.3,1225827.0,293004164.0
+1054867,tt30144839,One Battle After Another,2025,"Thriller, Crime, Comedy",Thriller,7.355,3795,15.1094,209377100.0,175000000.0,162,7.7,397927.0,72918884.0
+1010755,tt28682323,The Strangers: Chapter 3,2026,"Horror, Thriller",Horror,5.785,205,14.4573,9191988.0,8500000.0,92,4.1,5027.0,8560986.0
+1175942,tt30017619,The Bad Guys 2,2025,"Family, Comedy, Crime, Adventure, Animation",Family,7.66,791,14.6906,239676236.0,80000000.0,104,7.0,27455.0,82593605.0
+77,tt0209144,Memento,2000,"Mystery, Thriller",Mystery,8.175,16304,17.0425,40060108.0,9000000.0,113,8.4,1432382.0,25544867.0
+561,tt0360486,Constantine,2005,"Fantasy, Action, Horror",Fantasy,7.2,8153,14.7927,230900000.0,100000000.0,121,7.0,404706.0,75976178.0
+156022,tt0455944,The Equalizer,2014,"Thriller, Action, Crime",Thriller,7.3,9972,14.5506,192330738.0,55000000.0,132,7.3,464792.0,101530738.0
+102382,tt1872181,The Amazing Spider-Man 2,2014,"Action, Adventure, Science Fiction",Action,6.543,14275,15.3514,716934779.0,200000000.0,141,6.6,588917.0,203605622.0
+49521,tt0770828,Man of Steel,2013,"Action, Adventure, Science Fiction",Action,6.651,16243,14.0336,668045518.0,225000000.0,143,7.1,865769.0,291045518.0
+822119,tt14513804,Captain America: Brave New World,2025,"Action, Thriller, Science Fiction",Action,5.97,3119,14.2334,415101577.0,180000000.0,119,5.6,178537.0,200500001.0
+102651,tt1587310,Maleficent,2014,"Fantasy, Adventure, Action, Family, Romance",Fantasy,7.087,13759,13.5888,758539785.0,180000000.0,97,6.9,420347.0,241410378.0
+916224,tt16428256,Suzume,2022,"Animation, Drama, Adventure, Fantasy",Animation,7.887,1750,12.8766,314992206.0,13000000.0,122,7.6,60977.0,10932037.0
+916224,tt16428256,Suzume,2022,"Animation, Drama, Adventure, Fantasy",Animation,7.887,1750,12.8766,314992206.0,13000000.0,122,7.6,60977.0,10932037.0
+637649,tt11083552,Wrath of Man,2021,"Thriller, Crime, Drama",Thriller,7.574,6119,15.0232,103966489.0,40000000.0,119,7.1,237787.0,27466489.0
+286217,tt3659388,The Martian,2015,"Science Fiction, Drama, Adventure",Science Fiction,7.7,21278,14.8116,631058917.0,108000000.0,141,8.0,999128.0,228433663.0
+109424,tt1535109,Captain Phillips,2013,"Action, Drama, Thriller",Action,7.539,7508,10.5368,218791811.0,55000000.0,134,7.8,516908.0,107100855.0
+588228,tt9777666,The Tomorrow War,2021,"Action, Science Fiction, Adventure",Action,7.5,4198,14.5132,14400000.0,200000000.0,138,6.6,251689.0,
+581528,tt10208198,"The Gangster, the Cop, the Devil",2019,"Action, Crime, Thriller",Action,7.874,1484,15.9957,25775371.0,6500000.0,110,7.0,32511.0,216494.0
+855,tt0265086,Black Hawk Down,2001,"Action, War, History",Action,7.393,6380,13.3227,172989651.0,92000000.0,145,7.7,454170.0,108638745.0
+809,tt0298148,Shrek 2,2004,"Animation, Comedy, Family, Fantasy, Romance",Animation,7.319,13469,19.2901,935454538.0,150000000.0,92,7.4,550541.0,444978202.0
+1688163,tt41700228,Hayok,2026,Drama,Drama,7.0,1,15.1843,,,0,6.8,9.0,
+472269,tt6081670,Possum,2018,"Drama, Horror, Thriller",Drama,6.132,329,16.6974,,,85,5.8,10037.0,
+49013,tt1216475,Cars 2,2011,"Animation, Family, Adventure, Comedy",Animation,6.182,8493,16.2794,559852396.0,200000000.0,106,6.2,251842.0,191452396.0
+447273,tt6208148,Snow White,2025,"Family, Fantasy",Family,4.3,1648,14.3412,205679463.0,271600000.0,109,2.1,389458.0,87203963.0
+953,tt0351283,Madagascar,2005,"Adventure, Animation, Comedy, Family",Adventure,6.923,11754,16.2047,542064525.0,75000000.0,86,6.9,473809.0,194820396.0
+284053,tt3501632,Thor: Ragnarok,2017,"Action, Science Fiction, Comedy",Action,7.581,22057,15.0143,855301806.0,180000000.0,131,7.9,892533.0,315058289.0
+427641,tt2231461,Rampage,2018,"Action, Adventure, Science Fiction",Action,6.456,7553,14.5726,428028233.0,120000000.0,107,6.1,201100.0,101028233.0
+967998,tt18305922,Fatal Conspiracy,2022,Horror,Horror,7.0,3,12.3341,,,0,,48.0,
+1476453,tt37790907,Kirot,2025,Drama,Drama,5.5,2,14.9046,,,90,,,
+762509,tt13186482,Mufasa: The Lion King,2024,"Adventure, Family, Animation",Adventure,7.307,2674,15.025,722631756.0,200000000.0,118,6.6,80914.0,254567693.0
+530442,tt6997574,"My Teacher, My Obsession",2018,"Drama, Thriller, TV Movie",Drama,4.9,109,13.6616,,,86,4.4,3027.0,
+843527,tt9466114,The Idea of You,2024,"Music, Comedy, Romance, Drama",Music,7.28,1959,14.1483,36178.0,,116,6.3,82785.0,
+102899,tt0478970,Ant-Man,2015,"Science Fiction, Adventure, Action",Science Fiction,7.066,20896,12.6346,519311965.0,130000000.0,117,7.2,778683.0,180202163.0
+615656,tt9224104,Meg 2: The Trench,2023,"Action, Science Fiction, Horror",Action,6.375,3995,15.2753,398500317.0,129000000.0,116,5.0,101683.0,82600317.0
+818,tt0295178,Austin Powers in Goldmember,2002,"Comedy, Crime",Comedy,6.0,3445,10.7469,296938801.0,63000000.0,94,6.3,233424.0,213307889.0
+49849,tt0409847,Cowboys & Aliens,2011,"Action, Science Fiction, Thriller, Western",Action,5.678,5455,11.3149,174822325.0,163000000.0,119,6.0,241008.0,100240551.0
+1339876,tt27673536,Mardaani 3,2026,"Action, Crime, Thriller",Action,7.426,34,13.3937,,,131,,,
+1241693,tt31226272,Do Deewane Seher Mein,2026,"Romance, Drama, Comedy",Romance,6.75,12,11.3128,,,137,,,
+228150,tt2713180,Fury,2014,"War, Drama, Action",War,7.546,12945,13.8479,211817906.0,68000000.0,135,7.6,607560.0,85817906.0
+271110,tt3498820,Captain America: Civil War,2016,"Adventure, Action, Science Fiction",Adventure,7.449,24077,14.3328,1155046416.0,250000000.0,147,7.8,925892.0,408084349.0
+1193501,tt29550683,Whistle,2026,"Horror, Mystery",Horror,6.295,466,13.8568,4987632.0,2000000.0,100,5.2,12980.0,1250972.0
+1268127,tt32606470,Humint,2026,"Thriller, Action, Drama",Thriller,7.443,148,14.1626,13207600.0,16000000.0,120,6.4,3281.0,
+1088434,tt14507394,Hellfire,2026,"Action, Thriller",Action,5.4,5,14.5726,,,94,4.6,531.0,
+20453,tt1187043,3 Idiots,2009,"Drama, Comedy",Drama,8.001,2720,15.0191,70000000.0,9000000.0,171,8.4,474710.0,6532874.0
+44896,tt1192628,Rango,2011,"Animation, Comedy, Family, Western, Adventure",Animation,6.904,7132,15.0023,245724603.0,135000000.0,107,7.3,314167.0,123477607.0
+838209,tt27802490,Exhuma,2024,"Mystery, Horror, Thriller",Mystery,7.609,711,13.6432,97974828.0,,134,6.9,28229.0,2310900.0
+18240,tt1041829,The Proposal,2009,"Comedy, Romance, Drama",Comedy,7.168,7555,14.2845,317400000.0,40000000.0,108,6.8,393239.0,163958031.0
+447365,tt6791350,Guardians of the Galaxy Vol. 3,2023,"Science Fiction, Adventure, Action",Science Fiction,7.931,8382,14.2505,845550000.0,250000000.0,150,7.9,470167.0,358995815.0
+293660,tt1431045,Deadpool,2016,"Action, Adventure, Comedy",Action,7.6,32804,14.5086,782837347.0,58000000.0,108,8.0,1250978.0,363070709.0
+1212763,tt31170389,Evil Dead Burn,2026,"Horror, Thriller",Horror,0.0,0,14.1212,,15000000.0,110,,,
+383498,tt5463162,Deadpool 2,2018,"Action, Comedy, Adventure",Action,7.5,19267,14.2479,785896632.0,110000000.0,120,7.6,742720.0,324591735.0
+1639398,tt32205214,Mexican Psycho,2026,"Thriller, Horror",Thriller,7.3,91,12.0117,,,99,,,
+337404,tt3228774,Cruella,2021,"Comedy, Crime, Drama",Comedy,7.972,10083,14.2263,233503234.0,200000000.0,134,7.3,293600.0,86103234.0
+168259,tt2820852,Furious 7,2015,"Action, Crime, Thriller",Action,7.2,11305,14.2774,1515400000.0,190000000.0,138,7.1,437204.0,353007020.0
+4348,tt0414387,Pride & Prejudice,2005,"Drama, Romance",Drama,8.055,8791,15.892,124604345.0,28000000.0,128,7.8,368401.0,44785261.0
+2770,tt0252866,American Pie 2,2001,"Comedy, Romance",Comedy,6.257,5324,10.9729,287553595.0,30000000.0,111,6.5,283386.0,145103595.0
+539972,tt8790086,Kraven the Hunter,2024,"Action, Adventure, Thriller",Action,6.436,2359,13.8014,62076533.0,130000000.0,127,5.5,78716.0,25026310.0
+419430,tt5052448,Get Out,2017,"Mystery, Thriller, Horror",Mystery,7.624,18939,13.7493,255407969.0,4500000.0,104,7.8,814293.0,176196665.0
+1671548,tt41791573,Dear You,2026,"Drama, Family, Comedy",Drama,9.2,30,18.8,,,118,8.6,351.0,
+1511417,tt37893389,Bāhubali: The Epic,2025,"Action, Drama",Action,6.2,39,12.8537,3500000.0,65000000.0,224,8.5,1178.0,1039440.0
+59967,tt1276104,Looper,2012,"Action, Thriller, Science Fiction",Action,6.911,10933,13.3788,47042000.0,30000000.0,118,7.4,624435.0,66486205.0
+1398655,tt34915693,Blue Film,2026,Drama,Drama,7.5,3,13.5735,,,85,,,
+329865,tt2543164,Arrival,2016,"Drama, Science Fiction, Mystery",Drama,7.627,19413,13.9274,203388186.0,47000000.0,116,7.9,852057.0,100546139.0
+1257009,tt18312380,Primitive War,2025,"Action, Horror, War, Science Fiction",Action,6.619,349,14.2571,217753.0,,133,5.4,3738.0,
+259693,tt3065204,The Conjuring 2,2016,Horror,Horror,7.292,9205,12.8133,322819915.0,40000000.0,134,7.3,341821.0,102516140.0
+38365,tt1375670,Grown Ups,2010,Comedy,Comedy,6.423,6712,13.6664,271457606.0,80000000.0,102,6.0,309387.0,162001186.0
+1367642,tt33714084,Reminders of Him,2026,"Romance, Drama",Romance,7.732,313,12.6897,89039780.0,30000000.0,114,6.3,5740.0,47896865.0
+950,tt0438097,Ice Age: The Meltdown,2006,"Animation, Family, Comedy, Adventure",Animation,6.7,10365,13.7943,660998756.0,80000000.0,91,6.8,316256.0,195330621.0
+781732,tt13751694,Animal,2023,"Action, Crime, Drama",Action,6.117,192,14.1754,108300000.0,13000000.0,201,6.2,111191.0,15004482.0
+177677,tt2381249,Mission: Impossible - Rogue Nation,2015,"Action, Adventure",Action,7.224,9731,11.2459,682716636.0,150000000.0,131,7.4,445302.0,195042377.0
+370172,tt2382320,No Time to Die,2021,"Action, Thriller, Adventure",Action,7.339,7141,13.3041,774153024.0,250000000.0,163,7.3,481524.0,160891007.0
+260514,tt3606752,Cars 3,2017,"Animation, Drama, Family",Animation,6.861,6402,13.185,383925276.0,175000000.0,102,6.7,148184.0,152901115.0
+866398,tt15314262,The Beekeeper,2024,"Action, Crime, Thriller",Action,7.266,4279,13.352,162619535.0,35000000.0,106,6.3,179196.0,66220535.0
+570595,tt4324506,Russian Nymphet: Temptation,2004,"Drama, Romance",Drama,5.6,27,13.9741,,,35,5.6,209.0,
+82702,tt1646971,How to Train Your Dragon 2,2014,"Fantasy, Action, Adventure, Animation, Family",Fantasy,7.683,10464,14.2187,621537519.0,145000000.0,102,7.8,398152.0,177002924.0
+411088,tt4857264,The Invisible Guest,2017,"Drama, Mystery, Thriller",Drama,8.08,5000,14.0566,30000000.0,4000000.0,107,8.0,211110.0,
+400928,tt4481414,Gifted,2017,"Drama, Comedy",Drama,7.998,5955,11.6442,40300000.0,7000000.0,101,7.6,157423.0,24801212.0
+453395,tt9419884,Doctor Strange in the Multiverse of Madness,2022,"Fantasy, Action, Adventure",Fantasy,7.23,10379,14.0865,955775804.0,290000000.0,126,6.9,543288.0,411331607.0
+453395,tt9419884,Doctor Strange in the Multiverse of Madness,2022,"Fantasy, Action, Adventure",Fantasy,7.23,10379,14.0865,955775804.0,290000000.0,126,6.9,543288.0,411331607.0
+339527,tt1291570,Solace,2015,"Thriller, Crime, Mystery",Thriller,6.433,2389,7.421,22586863.0,,101,6.4,72978.0,
+598,tt0317248,City of God,2002,"Drama, Crime",Drama,8.429,8216,11.7039,30641770.0,3300000.0,129,8.6,869206.0,7564459.0
+1245398,tt28668007,True Fear,2024,Horror,Horror,5.6,7,41.6685,,,92,4.6,146.0,
+674324,tt11813216,The Banshees of Inisherin,2022,"Drama, Comedy",Drama,7.463,3379,9.8686,49300000.0,20000000.0,114,7.6,296473.0,10582266.0
+1223601,tt31844586,Sisu: Road to Revenge,2025,"Action, War, Thriller",Action,7.302,792,12.7324,9811703.0,12200000.0,89,6.8,25076.0,4544481.0
+30112,tt0949489,Lost in Beijing,2007,"Romance, Drama",Romance,6.6,62,10.7876,5095696.0,,112,6.7,2496.0,11163.0
+61012,tt0938330,Silent Hill: Revelation 3D,2012,"Thriller, Horror, Mystery",Thriller,5.548,1876,12.0143,55975672.0,20000000.0,94,4.9,69971.0,17529157.0
+14442,tt0327679,Ella Enchanted,2004,"Family, Fantasy, Comedy",Family,6.482,1976,23.016,27400000.0,31000000.0,96,6.3,80202.0,22918387.0
+961268,tt26350277,Ballerina,2023,"Action, Thriller",Action,7.011,704,11.0613,,,93,6.3,18693.0,
+153104,tt0338556,Wicked Minds,2003,"Mystery, Drama, Romance, Thriller, TV Movie",Mystery,6.34,53,13.4501,,,93,5.3,868.0,
+259872,tt1852099,Skin. Like. Sun.,2009,"Romance, Documentary",Romance,6.1,115,12.2294,,,60,4.0,272.0,
+1317288,tt32916440,Marty Supreme,2025,"Drama, Thriller",Drama,7.387,1854,15.6068,191303074.0,65000000.0,150,7.7,164546.0,96040064.0
+1446616,tt36118360,Tu Yaa Main,2026,"Thriller, Romance",Thriller,6.385,48,12.5236,,,145,6.9,4858.0,
+10591,tt0265208,The Girl Next Door,2004,"Comedy, Romance",Comedy,6.747,4043,12.7161,31635150.0,21000000.0,110,6.7,257258.0,14589444.0
+791373,tt12361974,Zack Snyder's Justice League,2021,"Action, Adventure, Fantasy",Action,8.089,10862,12.8868,,70000000.0,242,7.9,472346.0,
+601796,tt20168564,Alienoid,2022,"Science Fiction, Action, Fantasy, Adventure",Science Fiction,6.9,543,11.2695,12109608.0,24500000.0,142,6.3,7513.0,168309.0
+976573,tt15789038,Elemental,2023,"Animation, Comedy, Family, Fantasy, Romance",Animation,7.577,5315,12.7177,496444308.0,200000000.0,102,7.0,163663.0,154426697.0
+855400,tt15097216,Jai Bhim,2021,"Crime, Drama, Mystery, History",Crime,7.298,233,10.2932,,,164,8.6,233149.0,
+332567,tt4052882,The Shallows,2016,"Horror, Drama, Thriller",Horror,6.355,5335,9.5072,119100758.0,17000000.0,86,6.3,150701.0,55124043.0
+587412,tt10698680,K.G.F: Chapter 2,2022,"Action, Thriller, Adventure, Crime",Action,7.373,208,12.9609,90410749.0,13000000.0,168,8.2,168019.0,2874000.0
+171424,tt2403021,The Green Inferno,2013,"Adventure, Horror",Adventure,5.747,1592,9.535,12931420.0,5000000.0,100,5.4,54419.0,7192291.0
+68718,tt1853728,Django Unchained,2012,"Drama, Western",Drama,8.192,28101,12.2399,425368238.0,100000000.0,165,8.5,1878015.0,162805434.0
+56292,tt1229238,Mission: Impossible - Ghost Protocol,2011,"Action, Thriller, Adventure",Action,7.114,10788,9.9142,694713380.0,145000000.0,133,7.4,565615.0,209397903.0
+1317149,tt31514146,I Swear,2025,"Drama, History",Drama,8.2,353,13.052,15564405.0,3730000.0,121,8.4,37223.0,
+645710,tt11235772,The Voyeurs,2021,Thriller,Thriller,6.521,1195,13.2145,,,117,6.1,44090.0,
+10159,tt0327850,The Rundown,2003,"Adventure, Action, Comedy, Thriller",Adventure,6.451,2188,9.8134,80900000.0,85000000.0,104,6.7,147360.0,47726342.0
+1235192,tt27040807,Wormtown,2025,"Science Fiction, Horror, Adventure",Science Fiction,5.944,18,11.8249,,,107,,,
+278927,tt3040964,The Jungle Book,2016,"Adventure, Family, Fantasy",Adventure,6.873,8507,11.2849,966550600.0,175000000.0,106,7.3,304379.0,364001123.0
+254,tt0360717,King Kong,2005,"Adventure, Drama, Action",Adventure,6.892,8523,11.5272,562363449.0,207000000.0,188,7.2,465049.0,218080025.0
+6977,tt0477348,No Country for Old Men,2007,"Crime, Thriller, Western",Crime,7.951,13365,13.7924,171627166.0,25000000.0,122,8.2,1177271.0,74283625.0
+1422,tt0407887,The Departed,2006,"Drama, Thriller, Crime",Drama,8.16,16249,13.2006,291465000.0,90000000.0,151,8.5,1551506.0,132399394.0
+17422,tt0794374,Summer Palace,2006,"Drama, Romance",Drama,7.3,113,11.8398,,,135,7.2,4965.0,63045.0
+150689,tt1661199,Cinderella,2015,"Romance, Fantasy, Family, Drama",Romance,6.826,7406,13.5504,543514353.0,95000000.0,105,6.9,204139.0,201151353.0
+71552,tt1605630,American Reunion,2012,Comedy,Comedy,6.3,4717,9.8556,234989584.0,50000000.0,114,6.7,233104.0,57011521.0
+19564,tt0365658,The Prophecy: Uprising,2005,"Fantasy, Horror, Thriller",Fantasy,5.017,87,12.0257,,,88,5.2,2230.0,
+72105,tt1637725,Ted,2012,"Comedy, Fantasy",Comedy,6.454,13213,12.8856,549368315.0,50000000.0,107,6.9,704925.0,218815487.0
+333339,tt1677720,Ready Player One,2018,"Adventure, Action, Science Fiction",Adventure,7.588,16979,11.0454,607274134.0,175000000.0,140,7.4,540503.0,137715350.0
+1142921,tt28142095,Tere Ishk Mein,2025,"Romance, Drama",Romance,5.588,17,13.2864,,9505286.0,169,7.5,24671.0,
+1463681,tt36113721,Southern Scares,2026,"Horror, Mystery",Horror,0.0,0,39.2337,,,73,,,
+592695,tt8550054,Pleasure,2021,Drama,Drama,6.272,797,12.695,393824.0,1800000.0,108,6.3,24938.0,106789.0
+1214931,tt29567915,Nuremberg,2025,"History, Drama",History,7.559,1109,12.3171,37009109.0,11800000.0,149,7.4,84314.0,14524692.0
+568124,tt2953050,Encanto,2021,"Animation, Comedy, Family, Fantasy",Animation,7.6,10223,12.9243,261292688.0,150000000.0,102,7.2,293893.0,96093622.0
+118,tt0367594,Charlie and the Chocolate Factory,2005,"Adventure, Comedy, Family, Fantasy",Adventure,7.039,16147,12.0132,475000000.0,150000000.0,115,6.7,566515.0,206459076.0
+505642,tt9114286,Black Panther: Wakanda Forever,2022,"Action, Adventure, Science Fiction",Action,7.006,7493,12.5753,859102154.0,250000000.0,162,6.6,368850.0,453829060.0
+823219,tt4772188,Flow,2024,"Adventure, Animation, Family, Fantasy",Adventure,8.083,2854,13.1956,17660107.0,3700000.0,85,7.9,121667.0,4844117.0
+61979,tt1648216,Three Steps Above Heaven,2010,"Romance, Drama",Romance,7.728,3233,12.1489,,,122,6.8,29527.0,
+1724,tt0800080,The Incredible Hulk,2008,"Science Fiction, Action, Adventure",Science Fiction,6.2,12725,13.2098,264770996.0,150000000.0,114,6.6,563613.0,134806913.0
+524047,tt7737786,Greenland,2020,"Thriller, Adventure, Action, Science Fiction",Thriller,7.129,5341,12.0331,52300000.0,34000000.0,120,6.4,153226.0,
+507086,tt8041270,Jurassic World Dominion,2022,"Adventure, Science Fiction, Thriller",Adventure,6.598,7079,14.0193,1004004592.0,658800000.0,147,5.6,245361.0,376851080.0
+1278162,tt35450281,Panor,2025,"Horror, Thriller",Horror,6.889,9,12.2296,,,124,,17.0,
+508442,tt2948372,Soul,2020,"Animation, Family, Drama, Music, Fantasy",Animation,8.1,11446,12.7645,121977511.0,150000000.0,101,8.0,441986.0,946154.0
+1428990,tt35669125,This Is Not a Test,2026,"Thriller, Horror",Thriller,5.45,60,33.9779,150000.0,,102,4.6,2035.0,213951.0
+920,tt0317219,Cars,2006,"Animation, Adventure, Comedy, Family",Animation,7.0,15152,12.9666,461983149.0,120000000.0,117,7.3,528959.0,244082982.0
+1119878,tt27621210,Ice Road: Vengeance,2025,"Action, Thriller, Drama",Action,6.243,635,11.0767,,,113,4.8,17200.0,
+57800,tt1667889,Ice Age: Continental Drift,2012,"Animation, Comedy, Adventure, Family",Animation,6.387,8118,13.063,877244782.0,95000000.0,88,6.5,240893.0,161321843.0
+10191,tt0892769,How to Train Your Dragon,2010,"Fantasy, Adventure, Animation, Family",Fantasy,7.86,14404,12.2809,495141736.0,165000000.0,98,8.1,882954.0,217581231.0
+949536,tt18212138,Kill Code,2026,"Action, Thriller, Science Fiction",Action,5.4,10,35.4499,19426.0,20000000.0,87,4.3,952.0,
+1542261,tt38201958,Doraemon the Movie: New Nobita and the Castle of the Undersea Devil,2026,"Animation, Adventure, Fantasy, Family",Animation,7.5,8,12.9169,,,102,,,
+161,tt0240772,Ocean's Eleven,2001,"Thriller, Crime",Thriller,7.5,12593,12.7061,450717150.0,85000000.0,116,7.7,668514.0,183417150.0
+166428,tt2386490,How to Train Your Dragon: The Hidden World,2019,"Animation, Family, Adventure",Animation,7.752,7130,11.5383,539987993.0,129000000.0,104,7.4,175859.0,160945505.0
+1100988,tt10548174,28 Years Later,2025,"Horror, Thriller, Science Fiction",Horror,6.612,2595,14.2828,151308832.0,60000000.0,115,6.6,209527.0,70446897.0
+297090,tt3617996,The Torture Club,2014,"Drama, Comedy",Drama,5.235,51,11.5153,,,97,4.4,619.0,
+12155,tt1014759,Alice in Wonderland,2010,"Family, Fantasy, Adventure",Family,6.6,14831,12.88,1025467110.0,200000000.0,108,6.4,464214.0,334191110.0
+25376,tt1305806,The Secret in Their Eyes,2009,"Mystery, Thriller, Drama",Mystery,7.975,2869,8.7575,33965843.0,2000000.0,130,8.2,240743.0,6391436.0
+353081,tt4912910,Mission: Impossible - Fallout,2018,"Action, Adventure",Action,7.45,9156,10.3742,824171374.0,178000000.0,147,7.7,419025.0,220159104.0
+1072790,tt26047818,Anyone But You,2023,"Romance, Comedy",Romance,6.766,3085,12.9936,214891370.0,25000000.0,103,6.1,163540.0,88319668.0
+936245,tt34490115,Hidden Face,2024,"Mystery, Thriller",Mystery,5.1,66,11.1958,,,113,6.2,1026.0,
+667538,tt5090568,Transformers: Rise of the Beasts,2023,"Science Fiction, Adventure, Action",Science Fiction,7.17,5291,12.5446,441381193.0,195000000.0,127,6.0,129623.0,157341749.0
+345940,tt4779682,The Meg,2018,"Action, Science Fiction, Horror",Action,6.248,8214,12.9035,530517320.0,150000000.0,113,5.7,226090.0,145522784.0
+1421155,tt38221401,Ikatan Darah,2026,"Action, Crime, Thriller",Action,6.5,4,13.3907,,,119,8.3,25.0,
+122906,tt2194499,About Time,2013,"Drama, Romance, Fantasy",Drama,7.907,9298,12.6589,87100449.0,12000000.0,123,7.8,429483.0,15322921.0
+1173558,tt26787296,Burning Betrayal,2023,"Drama, Mystery, Romance",Drama,6.254,244,11.6264,,,99,4.2,4511.0,
+1643729,tt39385906,Ishqa'n De Lekhe,2026,"Drama, Romance, Music",Drama,10.0,1,10.3347,,,143,,,
+1309587,tt32296243,Hell in Paradise,2025,Thriller,Thriller,4.9,8,12.5357,,,102,,24.0,
+11237,tt0366174,Anacondas: The Hunt for the Blood Orchid,2004,"Adventure, Horror, Thriller",Adventure,5.5,1098,8.8432,70992898.0,20000000.0,96,4.8,36538.0,32238923.0
+1145899,tt33029380,Marsupilami,2026,"Adventure, Comedy",Adventure,6.354,113,11.9538,,33555600.0,99,6.3,383.0,
+1457939,tt36410586,Rahu Ketu,2026,"Adventure, Comedy, Fantasy",Adventure,3.75,2,8.7631,,,140,8.2,2475.0,
+166426,tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,2017,"Adventure, Action, Fantasy",Adventure,6.659,12837,11.7645,795922298.0,230000000.0,129,6.5,381325.0,172558876.0
+299710,tt3242418,Being 14,2015,Drama,Drama,4.0,64,13.4649,,,90,4.9,202.0,
+299710,tt3242418,Being 14,2015,Drama,Drama,4.0,64,13.4649,,,90,4.9,202.0,
+1627824,tt39565775,Rocky's Cat-astrophe,2026,"Animation, Family",Animation,8.0,18,12.2398,,,44,,,
+579974,tt8178634,RRR,2022,"Action, History, Drama",Action,7.714,1607,13.5689,160000000.0,69000000.0,187,7.8,201689.0,15156051.0
+436969,tt6334354,The Suicide Squad,2021,"Action, Comedy, Adventure",Action,7.5,9611,12.2294,168717425.0,185000000.0,132,7.2,457420.0,55817425.0
+520023,tt8110652,Bodies Bodies Bodies,2022,"Comedy, Mystery, Horror",Comedy,6.2,1468,13.3301,13929670.0,3000000.0,94,6.2,87253.0,11446602.0
+135397,tt0369610,Jurassic World,2015,"Adventure, Science Fiction, Thriller",Adventure,6.701,21615,12.6651,1671537444.0,150000000.0,124,6.9,723175.0,653406625.0
+43947,tt1242432,I Spit on Your Grave,2010,"Thriller, Crime, Horror",Thriller,6.5,2582,10.1816,572809.0,2000000.0,108,6.2,99752.0,93051.0
+786892,tt12037194,Furiosa: A Mad Max Saga,2024,"Action, Science Fiction, Adventure",Action,7.454,4908,12.0826,174287546.0,168000000.0,149,7.5,311953.0,67475791.0
+508947,tt8097030,Turning Red,2022,"Animation, Family, Comedy, Fantasy",Animation,7.335,5884,13.4129,21813358.0,175000000.0,100,6.9,171863.0,1399001.0
+24,tt0266697,Kill Bill: Vol. 1,2003,"Action, Crime",Action,7.973,18997,11.0578,180906076.0,30000000.0,111,8.2,1305508.0,70099045.0
+359410,tt3359350,Road House,2024,"Action, Thriller, Drama",Action,6.944,3072,12.5207,,85000000.0,121,6.2,182249.0,
+146233,tt1392214,Prisoners,2013,"Drama, Thriller, Crime",Drama,8.106,13128,11.9944,122127446.0,46000000.0,153,8.2,922474.0,61002302.0
+1214835,tt28802657,De De Pyaar De 2,2025,"Comedy, Romance",Comedy,6.536,14,9.1732,,,146,6.5,13074.0,
+384018,tt6806448,Fast & Furious Presents: Hobbs & Shaw,2019,"Action, Adventure, Comedy",Action,6.831,7778,12.186,760098996.0,200000000.0,137,6.4,255155.0,173956935.0
+1469458,tt36628923,Sambhavam Adhyayam Onnu,2026,"Fantasy, Thriller, Drama",Fantasy,6.4,7,12.0668,,,127,,,
+11770,tt0286112,Shaolin Soccer,2001,"Action, Comedy",Action,7.172,2543,13.8593,42776760.0,10000005.0,113,7.3,95575.0,489600.0
+1423251,tt31593809,Biker,2026,"Adventure, Drama, Family",Adventure,6.2,4,8.5951,,,162,,,
+567609,tt7798634,Ready or Not,2019,"Horror, Comedy",Horror,7.075,5531,12.7159,57615777.0,6000000.0,96,6.9,243060.0,28714231.0
+214756,tt2637276,Ted 2,2015,"Comedy, Fantasy",Comedy,6.325,8018,13.0671,215863606.0,68000000.0,115,6.3,258061.0,81476385.0
+19173,tt1111890,Diary of a Nymphomaniac,2008,"Drama, Romance",Drama,5.647,365,12.1765,,,102,5.7,11802.0,
+297762,tt0451279,Wonder Woman,2017,"Action, Adventure, Fantasy",Action,7.2,20934,10.3688,823970682.0,149000000.0,141,7.3,732467.0,412845172.0
+614479,tt13405778,Insidious: The Red Door,2023,"Horror, Thriller",Horror,6.5,1973,12.9862,189086877.0,16000000.0,107,5.5,63373.0,82156962.0
+244998,tt3088040,Senario XX,2005,"Comedy, Adventure, Action",Comedy,0.0,0,10.9277,,,93,6.5,73.0,
+36557,tt0381061,Casino Royale,2006,"Adventure, Action, Thriller",Adventure,7.571,11718,12.5571,599045960.0,150000000.0,144,8.0,739664.0,167445960.0
+1699820,tt40448536,Vibeland Chronicles,2026,Thriller,Thriller,4.0,1,35.3295,,,57,,,
+670,tt0364569,Oldboy,2003,"Thriller, Mystery, Action, Drama",Thriller,8.236,9898,11.9261,17500000.0,3000000.0,120,8.3,710562.0,2458200.0
+438148,tt5113044,Minions: The Rise of Gru,2022,"Comedy, Crime, Science Fiction, Animation, Family",Comedy,7.266,4024,12.0853,940203765.0,85000000.0,87,6.5,102656.0,370549695.0
+1510339,tt28961625,Mark,2025,"Action, Thriller",Action,4.0,1,10.7375,,,144,,,
+1064213,tt28607951,Anora,2024,"Drama, Comedy, Romance",Drama,7.1,3188,11.9328,56286295.0,6000000.0,139,7.4,270515.0,20474295.0
+550988,tt6264654,Free Guy,2021,"Comedy, Adventure, Science Fiction",Comedy,7.452,9858,11.5123,331526598.0,110000000.0,115,7.1,487068.0,121626598.0
+1417,tt0457430,Pan's Labyrinth,2006,"Fantasy, Drama, War",Fantasy,7.764,11494,12.469,83258226.0,19000000.0,118,8.2,745954.0,37646380.0
+1263337,tt7526136,Heart of the Beast,2026,"Action, Adventure",Action,0.0,0,10.0859,,,0,,,
+11247,tt0356470,A Cinderella Story,2004,"Comedy, Family, Romance",Comedy,6.596,3391,10.1346,70067909.0,19000000.0,95,5.9,100465.0,51438175.0
+370663,tt5073620,Below Her Mouth,2017,"Drama, Romance",Drama,6.803,1298,11.9143,33673.0,,91,5.5,15882.0,
+613504,tt10362466,After We Collided,2020,"Drama, Romance",Drama,7.152,5464,12.3653,47990414.0,14000000.0,105,5.1,43720.0,2386483.0
+93685,tt0284534,Swingers,2002,"Romance, Drama",Romance,5.9,75,11.4069,,,93,5.6,1452.0,
+1117857,tt27604215,In Your Dreams,2025,"Adventure, Animation, Comedy, Family, Fantasy",Adventure,6.968,222,13.4221,,,87,6.5,1343.0,
+420817,tt6139732,Aladdin,2019,"Adventure, Fantasy, Romance, Family",Adventure,7.084,10632,11.4368,1054304000.0,183000000.0,127,6.9,312476.0,355559216.0
+9470,tt0373074,Kung Fu Hustle,2004,"Action, Comedy, Crime, Fantasy",Action,7.5,3207,11.9181,102034104.0,20000000.0,99,7.7,162566.0,17108591.0
+1144107,tt37284198,The Legend of Hei 2,2025,"Animation, Fantasy, Action, Adventure",Animation,8.5,58,11.3424,67216848.0,,119,7.9,1067.0,365480.0
+321612,tt2771200,Beauty and the Beast,2017,"Family, Fantasy, Romance",Family,6.968,16018,14.5158,1266115964.0,160000000.0,129,7.1,356758.0,504481165.0
+140607,tt2488496,Star Wars: The Force Awakens,2015,"Adventure, Action, Science Fiction",Adventure,7.248,20576,11.1251,2068223624.0,245000000.0,136,7.7,1018738.0,936662225.0
+1034541,tt27911000,Terrifier 3,2024,Horror,Horror,6.786,1966,12.028,90322103.0,2000000.0,125,6.2,61278.0,53981071.0
+1087891,tt0899043,The Amateur,2025,"Thriller, Action",Thriller,6.9,1619,10.2495,96000836.0,60000000.0,123,6.5,96580.0,40759635.0
+313369,tt3783958,La La Land,2016,"Comedy, Drama, Romance",Comedy,7.898,18148,12.3288,509183536.0,30000000.0,129,8.0,759966.0,151101803.0
+1196946,tt15464188,Ikkis,2026,"History, War, Drama",History,6.447,19,9.6725,,,148,,,
+284427,tt3042408,Who Am I,2014,Thriller,Thriller,7.568,1723,8.7617,7700259.0,,105,7.4,64148.0,
+1196946,tt15464188,Ikkis,2026,"History, War, Drama",History,6.447,19,9.6725,,,148,,,
+284427,tt3042408,Who Am I,2014,Thriller,Thriller,7.568,1723,8.7617,7700259.0,,105,7.4,64148.0,
+205596,tt2084970,The Imitation Game,2014,"History, Drama, Thriller, War",History,7.984,18112,12.535,233555708.0,14000000.0,113,8.0,872710.0,91125683.0
+945961,tt18412256,Alien: Romulus,2024,"Horror, Science Fiction",Horror,7.164,4584,11.9834,350865342.0,80000000.0,119,7.1,285643.0,105313091.0
+1656061,tt39315819,Immortal Combat,2026,"Action, Adventure, Science Fiction",Action,5.1,12,8.1056,,,88,,,
+439079,tt5814060,The Nun,2018,Horror,Horror,5.9,7181,11.8387,366082797.0,22000000.0,96,5.4,194981.0,117481222.0
+6479,tt0480249,I Am Legend,2007,"Drama, Science Fiction, Thriller",Drama,7.217,16883,11.3652,585410052.0,150000000.0,101,7.2,870487.0,256393010.0
+420818,tt6105098,The Lion King,2019,"Adventure, Drama, Family, Animation",Adventure,7.096,10758,12.392,1662020819.0,260000000.0,118,6.8,290328.0,543638043.0
+1101383,tt27165187,The End of Oak Street,2026,"Science Fiction, Mystery, Thriller",Science Fiction,0.0,0,11.5544,,85000000.0,110,,,
+1571782,tt38813422,Rangbaaz: The Bihar Chapter,2025,"Action, Crime",Action,4.0,1,8.4459,,,146,,96.0,
+616037,tt10648342,Thor: Love and Thunder,2022,"Fantasy, Action, Comedy",Fantasy,6.368,8590,11.6104,760928081.0,250000000.0,119,6.1,459337.0,343256830.0
+11423,tt0353969,Memories of Murder,2003,"Crime, Drama, Thriller",Crime,8.057,4621,11.3142,26000000.0,2800000.0,131,8.1,262200.0,15357.0
+10192,tt0892791,Shrek Forever After,2010,"Comedy, Adventure, Fantasy, Animation, Family",Comedy,6.4,7967,12.1589,752600867.0,165000000.0,93,6.3,243636.0,238736787.0
+714338,tt12393526,Bulbbul,2020,"Horror, Fantasy, Thriller",Horror,6.6,171,8.3909,,,94,6.6,16330.0,
+298618,tt0439572,The Flash,2023,"Action, Science Fiction, Adventure",Action,6.616,5014,11.2821,271333313.0,220000000.0,144,6.6,246759.0,108133313.0
+360814,tt5074352,Dangal,2016,"Drama, Family, Comedy",Drama,7.875,1164,10.807,311000000.0,10400000.0,161,8.3,239462.0,12391761.0
+423,tt0253474,The Pianist,2002,"Drama, War",Drama,8.373,10165,10.7023,120098945.0,35000000.0,150,8.5,1010154.0,32590750.0
+986056,tt20969586,Thunderbolts*,2025,"Action, Science Fiction, Adventure",Action,7.3,3579,13.6722,382436917.0,180000000.0,127,7.1,274694.0,190274328.0
+490132,tt6966692,Green Book,2018,"Drama, Comedy, History",Drama,8.225,12914,11.0433,321752656.0,23000000.0,130,8.2,682124.0,85080171.0
+934433,tt17663992,Scream VI,2023,"Horror, Thriller, Crime",Horror,6.942,3208,10.7951,169063850.0,33000000.0,123,6.4,147729.0,108391107.0
+1703693,tt42111286,Palitan 2,2026,Drama,Drama,0.0,0,10.6761,,,94,,,
+76338,tt1981115,Thor: The Dark World,2013,"Action, Adventure, Fantasy",Action,6.511,18363,10.6013,644783140.0,170000000.0,112,6.7,776160.0,206362140.0
+10632,tt0269347,The Hunted,2003,"Drama, Action, Thriller, Crime",Drama,6.176,927,8.385,34234008.0,55000000.0,94,6.1,52548.0,34244097.0
+57158,tt1170358,The Hobbit: The Desolation of Smaug,2013,"Fantasy, Adventure, Action",Fantasy,7.579,14237,11.0568,958400000.0,250000000.0,161,7.8,752978.0,258387334.0
+713704,tt13345606,Evil Dead Rise,2023,"Horror, Thriller",Horror,6.9,3700,11.7586,147256372.0,15000000.0,96,6.5,165402.0,67233054.0
+1477712,tt36893729,Ice Cream Man,2026,"Horror, Thriller",Horror,0.0,0,10.8437,,,0,,,
+1124,tt0482571,The Prestige,2006,"Drama, Mystery, Science Fiction",Drama,8.208,17646,12.8238,109676311.0,40000000.0,130,8.5,1583310.0,53089891.0
+258216,tt1937390,Nymphomaniac: Vol. I,2013,Drama,Drama,6.853,3668,11.2782,13545832.0,2350000.0,118,6.9,138016.0,785896.0
+91314,tt2109248,Transformers: Age of Extinction,2014,"Science Fiction, Action, Adventure",Science Fiction,5.966,8778,10.9937,1105261713.0,210000000.0,165,5.6,347982.0,245439076.0
+1384216,tt21285562,The Dog Stars,2026,"Adventure, Science Fiction, Thriller",Adventure,0.0,0,10.0236,,110000000.0,100,,,
+1415974,tt37443891,Raat Akeli Hai - The Bansal Murders,2025,"Thriller, Mystery, Crime, Drama",Thriller,6.12,25,8.2291,,,136,6.6,4312.0,
+1403735,tt32831759,Laila,2025,"Comedy, Romance",Comedy,5.25,8,11.572,,,134,2.5,562.0,
+753091,tt27688034,The Moon,2023,"Drama, Adventure, Science Fiction",Drama,6.517,210,8.465,92718.0,20000000.0,129,5.8,10040.0,92718.0
+109418,tt2191701,Grown Ups 2,2013,Comedy,Comedy,6.177,4713,11.4905,247022278.0,80000000.0,101,5.4,190524.0,133668525.0
+334074,tt3247714,Survivor,2015,"Action, Crime, Mystery, Thriller",Action,5.696,1084,11.0012,,20000000.0,96,5.7,37078.0,
+615453,tt10627720,Ne Zha,2019,"Animation, Fantasy, Adventure",Animation,7.908,872,12.1979,742718496.0,22000000.0,110,7.3,21890.0,3695533.0
+47964,tt1606378,A Good Day to Die Hard,2013,"Action, Thriller",Action,5.334,6769,8.0628,304654182.0,92000000.0,98,5.2,222360.0,67349198.0
+10527,tt0479952,Madagascar: Escape 2 Africa,2008,"Adventure, Animation, Comedy, Family",Adventure,6.528,7445,10.8355,603900354.0,150000000.0,89,6.7,268534.0,180010950.0
+8275,tt0808146,American Pie Presents: The Naked Mile,2006,Comedy,Comedy,5.485,2199,9.06,,,97,5.1,66890.0,
+546554,tt8946378,Knives Out,2019,"Comedy, Crime, Mystery",Comedy,7.841,14071,11.3958,312897920.0,40000000.0,131,7.9,875016.0,165363234.0
+1117898,tt2321555,The Cat in the Hat,2026,"Animation, Comedy, Fantasy, Adventure, Family",Animation,0.0,0,24.301,,,0,,,
+729854,tt13086266,Concrete Utopia,2023,"Thriller, Action",Thriller,6.914,301,8.8392,28900000.0,,130,6.6,8419.0,
+508943,tt12801262,Luca,2021,"Animation, Family, Fantasy",Animation,7.8,8966,12.0436,51074773.0,200000000.0,95,7.4,222432.0,1324302.0
+812037,tt14550346,Last Summer,2023,Drama,Drama,6.095,247,12.446,1022551.0,,104,6.3,3658.0,174977.0
+58244,tt1374992,Upside Down,2012,"Romance, Science Fiction, Drama, Fantasy",Romance,6.276,2620,8.3943,22187813.0,60000000.0,104,6.3,75091.0,105095.0
+1601797,tt35979013,¿Quieres ser mi novia?,2026,"Comedy, Romance",Comedy,8.682,148,11.0256,197388.0,,97,,63.0,
+1418657,tt14500286,The Yeti,2026,"Horror, Thriller",Horror,6.381,59,9.3678,,,93,3.8,612.0,52689.0
+50014,tt1454029,The Help,2011,Drama,Drama,8.203,9073,11.0455,216600000.0,25000000.0,146,8.1,524627.0,169708112.0
+520763,tt8332922,A Quiet Place Part II,2021,"Science Fiction, Thriller, Horror",Science Fiction,7.432,7424,10.3395,297372261.0,55000000.0,96,7.2,315806.0,160072261.0
+184345,tt2828996,A Haunted House 2,2014,"Comedy, Horror",Comedy,6.186,1598,10.9898,25343661.0,4000000.0,87,4.7,25195.0,17329486.0
+283995,tt3896198,Guardians of the Galaxy Vol. 2,2017,"Science Fiction, Adventure, Action",Science Fiction,7.61,22979,11.1117,863756051.0,200000000.0,137,7.6,828114.0,389813101.0
+810693,tt14331144,Jujutsu Kaisen 0,2021,"Animation, Action, Fantasy",Animation,8.102,1767,12.3071,195870885.0,,105,7.8,59986.0,34542754.0
+1351923,tt15911108,120 Bahadur,2025,"Action, War",Action,6.4,16,8.4335,114872.0,,137,7.1,4430.0,
+179291,tt0837794,Favorite Son,2008,Drama,Drama,3.8,11,10.4817,,,90,5.7,185.0,
+1065834,tt35668756,Kattalan,2026,"Action, Thriller",Action,7.1,5,9.9731,,,119,,,
+14161,tt1190080,2012,2009,"Action, Adventure, Science Fiction",Action,5.882,12766,10.819,791217826.0,200000000.0,158,5.9,419441.0,166112167.0
+1511549,tt36956284,Still Sexy,2026,"Comedy, Romance",Comedy,5.167,18,11.2589,,,100,,,
+260513,tt3606756,Incredibles 2,2018,"Action, Adventure, Animation, Family",Action,7.453,13705,11.5713,1243225667.0,200000000.0,118,7.5,366471.0,608581744.0
+957119,tt19704542,Sidelined: The QB and Me,2025,"Comedy, Romance",Comedy,6.252,234,10.4892,,,99,5.9,3031.0,
+2575,tt0236784,The Tailor of Panama,2001,"Drama, Thriller",Drama,6.003,541,7.6375,28000000.0,21000000.0,109,6.1,32465.0,13729742.0
+415842,tt1961175,American Assassin,2017,"Action, Adventure, Thriller",Action,6.413,3264,9.9202,67200000.0,33000000.0,112,6.2,99279.0,36249674.0
+348893,tt3344680,Boyka: Undisputed IV,2016,"Action, Drama, Thriller, Crime",Action,7.198,1465,10.82,63500000.0,,87,7.0,26480.0,
+399579,tt0437086,Alita: Battle Angel,2019,"Action, Science Fiction, Adventure",Action,7.256,10055,11.2286,405000000.0,170000000.0,122,7.3,321252.0,85838210.0
+828871,tt13529034,Meenakshi Sundareshwar,2021,"Romance, Drama",Romance,5.544,34,7.7274,,,141,6.7,18707.0,
+273481,tt3397884,Sicario,2015,"Action, Crime, Thriller",Action,7.419,9583,10.2513,84997446.0,30000000.0,122,7.7,527661.0,46889293.0
+744876,tt10235600,Kaali Khuhi,2020,"Horror, Drama, Thriller",Horror,4.6,24,7.2797,,,90,3.7,1457.0,
+381288,tt4972582,Split,2017,"Horror, Thriller",Horror,7.341,18355,9.9265,278454358.0,9000000.0,117,7.3,616174.0,138291365.0
+1545621,tt39123115,Detective Conan: Fallen Angel of the Highway,2026,"Animation, Action, Mystery, Crime",Animation,8.1,10,10.8811,,,109,,,
+497698,tt3480822,Black Widow,2021,"Action, Adventure, Science Fiction",Action,7.168,11270,11.6852,379751131.0,200000000.0,134,6.6,476594.0,183651655.0
+1652947,tt39715030,Tuklas,2026,Drama,Drama,7.0,2,11.0163,,,0,,,
+1306845,tt32223398,Jaat,2025,"Crime, Action, Thriller",Crime,6.243,35,9.5144,12117647.0,11764705.0,153,6.0,12574.0,
+8274,tt0436058,American Pie Presents: Band Camp,2005,Comedy,Comedy,5.5,2244,7.8482,,7000000.0,94,5.1,69324.0,
+407436,tt2388771,Mowgli: Legend of the Jungle,2018,"Adventure, Drama",Adventure,6.476,2603,8.4022,,175000000.0,105,6.5,67737.0,
+594669,tt8366590,Baaghi 3,2020,"Action, Adventure, Thriller",Action,6.258,126,8.0871,18473570.0,7952450.0,144,2.3,17713.0,721439.0
+339308,tt0160256,The Unscarred,2000,Thriller,Thriller,5.8,9,9.4581,,,88,5.6,254.0,
+1495694,tt36585628,Beauty from Pain,2025,"Romance, Drama",Romance,6.974,19,11.6521,,,116,5.8,69.0,
+324552,tt4425200,John Wick: Chapter 2,2017,"Action, Thriller, Crime",Action,7.34,14298,11.9888,171539887.0,40000000.0,122,7.4,564980.0,92029184.0
+426889,tt7103560,Le Clitoris,2017,"Animation, Documentary",Animation,6.756,43,11.2924,,,4,7.1,179.0,
+1321179,tt38626703,The King's Warden,2026,"History, Drama",History,7.184,19,10.2825,111782570.0,6900000.0,117,,75.0,
+338952,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,2018,"Fantasy, Adventure",Fantasy,6.834,11488,8.7875,654900000.0,200000000.0,134,6.5,329657.0,159555901.0
+338952,tt4123430,Fantastic Beasts: The Crimes of Grindelwald,2018,"Fantasy, Adventure",Fantasy,6.834,11488,8.7875,654900000.0,200000000.0,134,6.5,329657.0,159555901.0
+1653208,tt40769151,The Great Grand Superhero,2026,"Comedy, Family, Drama",Comedy,0.0,0,8.2898,,,112,,,
+1497348,tt39018552,Alas Roban,2026,"Drama, Horror, Mystery",Drama,4.6,5,10.1879,,,111,6.3,58.0,
+49444,tt1302011,Kung Fu Panda 2,2011,"Animation, Family, Comedy, Action",Animation,7.1,7907,11.1089,665692281.0,150000000.0,91,7.3,349971.0,165249063.0
+10198,tt0780521,The Princess and the Frog,2009,"Animation, Romance, Fantasy, Family",Animation,7.2,6136,10.7203,270997378.0,105000000.0,98,7.2,184917.0,104400899.0
+603673,tt10350922,Laxmii,2020,"Horror, Comedy",Horror,4.414,58,7.5315,,,141,2.5,59026.0,
+573435,tt4919268,Bad Boys: Ride or Die,2024,"Action, Comedy, Crime",Action,7.322,3344,11.0859,404547819.0,100000000.0,116,6.5,113239.0,193573217.0
+940551,tt6495056,Migration,2023,"Family, Comedy, Adventure, Animation",Family,7.354,2252,10.3683,298776052.0,72000000.0,83,6.6,45901.0,127630880.0
+351286,tt4881806,Jurassic World: Fallen Kingdom,2018,"Adventure, Science Fiction, Thriller",Adventure,6.531,12791,10.6061,1310469037.0,170000000.0,129,6.1,382093.0,417719760.0
+696393,tt8879928,Cold Storage,2026,"Horror, Science Fiction, Comedy",Horror,6.797,520,10.9563,4048606.0,10000000.0,99,6.1,15845.0,1529234.0
+395,tt0370263,AVP: Alien vs. Predator,2004,"Adventure, Science Fiction, Action, Horror",Adventure,5.949,4978,8.4364,177427090.0,70000000.0,101,5.7,231347.0,80282231.0
+81005,tt1351685,Jack the Giant Slayer,2013,"Fantasy, Action, Adventure, Drama",Fantasy,5.893,5252,10.2365,197700000.0,195000000.0,114,6.3,153746.0,65187603.0
+590403,tt10023024,Love Aaj Kal,2020,"Romance, Drama",Romance,5.62,50,7.3236,,,141,4.7,11012.0,
+1252037,tt31495504,The Tank,2025,"War, Action, Drama",War,7.109,441,10.6551,,,117,6.5,13143.0,
+928358,tt13887082,Grand Jete,2022,Drama,Drama,4.9,48,11.0142,,,105,4.8,1170.0,
+619061,tt7743400,Jhalki,2019,Drama,Drama,6.8,5,6.9866,,,105,6.9,1434.0,
+601807,tt10230426,Mrs. Serial Killer,2020,Thriller,Thriller,6.245,94,7.0922,,,106,4.0,19247.0,
+1035259,tt3402138,The Naked Gun,2025,"Action, Comedy, Crime",Action,6.37,1756,10.4553,102147396.0,42000000.0,85,6.3,124409.0,52647396.0
+675353,tt12412888,Sonic the Hedgehog 2,2022,"Action, Adventure, Family, Comedy",Action,7.427,5886,10.1082,405421518.0,110000000.0,123,6.5,115967.0,190872904.0
+997391,tt24517458,RDX: Robert Dony Xavier,2023,"Action, Drama",Action,6.7,62,7.4473,,,150,7.0,5657.0,
+1315303,tt33028778,Primate,2026,"Horror, Thriller",Horror,6.5,684,10.5692,41235665.0,21000000.0,89,5.8,25872.0,25635665.0
+454626,tt3794354,Sonic the Hedgehog,2020,"Action, Science Fiction, Comedy, Family",Action,7.282,10409,10.2991,319715683.0,85000000.0,99,6.5,192228.0,148974665.0
+341174,tt4465564,Fifty Shades Darker,2017,"Drama, Romance",Drama,6.473,7951,10.1571,381545846.0,55000000.0,118,4.6,120435.0,114581250.0
+139038,tt2243537,A Haunted House,2013,"Comedy, Horror",Comedy,5.951,2059,10.475,60141683.0,2500000.0,86,5.1,52749.0,40041683.0
+812583,tt14364480,Wake Up Dead Man: A Knives Out Mystery,2025,"Thriller, Mystery, Comedy",Thriller,7.2,2540,10.4101,4000000.0,210000000.0,145,7.3,232785.0,1600000.0
+566525,tt9376612,Shang-Chi and the Legend of the Ten Rings,2021,"Action, Adventure, Fantasy",Action,7.495,10420,11.1336,432243292.0,150000000.0,132,7.3,486812.0,224543292.0
+635503,tt10515526,Lootcase,2020,Comedy,Comedy,6.32,64,7.2661,,,132,7.5,18771.0,
+639988,tt1527793,No Other Choice,2025,"Comedy, Crime, Thriller",Comedy,7.507,1100,10.6288,40223568.0,12200000.0,140,7.5,57461.0,10011860.0
+493922,tt7784604,Hereditary,2018,"Horror, Mystery, Thriller",Horror,7.294,8628,10.3444,87796204.0,10000000.0,128,7.3,453527.0,44069456.0
+338803,tt4844288,The Treacherous,2015,"Drama, History, Crime",Drama,6.1,91,10.9149,6906250.0,,133,6.1,2461.0,
+1359,tt0144084,American Psycho,2000,"Thriller, Drama, Crime",Thriller,7.403,12340,10.7251,34269748.0,7000000.0,102,7.6,827026.0,15070285.0
+1171094,tt35682680,Ek Din,2026,"Romance, Drama",Romance,0.0,0,7.2818,,,125,5.6,223.0,
+387848,tt6571010,Buddy's Mom,2015,"Drama, Romance",Drama,5.7,15,10.0553,,,101,7.0,171.0,
+493529,tt2906216,Dungeons & Dragons: Honor Among Thieves,2023,"Adventure, Fantasy, Comedy",Adventure,7.352,4671,9.6775,208200000.0,151000000.0,134,7.2,270852.0,93549650.0
+284052,tt1211837,Doctor Strange,2016,"Fantasy, Adventure, Action",Fantasy,7.421,23469,11.2659,676343174.0,180000000.0,115,7.5,877590.0,232641920.0
+1308821,tt32264942,First Taste,2024,"Romance, Drama",Romance,5.4,9,10.1144,,,99,4.1,366.0,
+414419,tt6019206,Kill Bill: The Whole Bloody Affair,2011,"Action, Crime",Action,8.098,1315,10.3599,12338649.0,60000000.0,254,8.8,36729.0,6002538.0
+263472,tt3605418,Knock Knock,2015,"Horror, Thriller, Crime",Horror,5.4,3498,9.7953,6341684.0,10000000.0,99,4.9,114537.0,36336.0
+1315303,tt33028778,Primate,2026,"Horror, Thriller",Horror,6.526,684,10.5692,41235665.0,21000000.0,89,5.8,25872.0,25635665.0
+38055,tt1001526,Megamind,2010,"Animation, Action, Comedy, Family, Science Fiction",Animation,7.027,7491,10.1922,321885765.0,130000000.0,96,7.3,322951.0,148415853.0
+13186,tt0804555,Wrong Turn 2: Dead End,2007,"Horror, Thriller",Horror,6.166,1556,10.7038,,4000000.0,97,5.5,39555.0,
+1303331,tt27548557,Dhamaal 4,2026,Comedy,Comedy,0.0,0,9.9123,,,0,,,
+10195,tt0800369,Thor,2011,"Adventure, Fantasy, Action",Adventure,6.771,22380,12.514,449326618.0,150000000.0,115,7.0,963947.0,181030624.0
+526024,tt8320406,Boy Undone,2017,Drama,Drama,4.8,20,11.5396,,,116,5.2,388.0,
+286687,tt3985604,Love Lesson,2013,"Romance, Drama, Comedy",Romance,6.8,42,11.0919,,,80,5.2,998.0,
+10625,tt0377092,Mean Girls,2004,"Drama, Comedy",Drama,7.226,9483,11.0523,130195052.0,17000000.0,97,7.1,485269.0,86058055.0
+127585,tt1877832,X-Men: Days of Future Past,2014,"Action, Adventure, Science Fiction",Action,7.531,16289,10.0709,748045700.0,250000000.0,132,7.9,786991.0,233921534.0
+1248226,tt31425731,Playdate,2025,"Action, Comedy, Family",Action,6.086,607,10.0456,,,93,5.5,25282.0,
+554826,tt8476998,Bhonsle,2018,Drama,Drama,6.333,6,6.7695,,,128,6.8,1742.0,
+281957,tt1663202,The Revenant,2015,"Western, Drama, Adventure",Western,7.541,19359,10.6462,532950503.0,135000000.0,157,8.0,947792.0,184247394.0
+615173,tt13721828,The Witch: Part 2. The Other One,2022,"Action, Mystery, Thriller, Science Fiction",Action,7.406,453,10.9166,23068596.0,,137,6.3,9285.0,143723.0
+1662414,tt41367695,Propeller One-Way Night Coach,2026,"Adventure, Drama, Family",Adventure,6.7,36,10.157,,,60,5.7,41.0,
+50620,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,2012,"Fantasy, Drama, Romance",Fantasy,6.5,9390,8.8414,829747654.0,120000000.0,115,5.6,279805.0,293144686.0
+446354,tt6294822,The Post,2017,"Drama, History",Drama,7.005,4923,11.149,179769467.0,50000000.0,116,7.2,171711.0,81903458.0
+1448560,tt36153493,Wildcat,2025,"Action, Thriller",Action,6.213,176,10.0107,,50000.0,99,3.9,1755.0,
+447332,tt6644200,A Quiet Place,2018,"Horror, Drama, Science Fiction",Horror,7.393,15383,10.2697,340955294.0,17000000.0,91,7.5,652123.0,188024361.0
+1049471,tt23724682,Outcome,2026,"Comedy, Drama",Comedy,5.392,212,10.2923,,80000000.0,84,4.6,4918.0,
+607297,tt9248952,Jawaani Jaaneman,2020,Comedy,Comedy,6.0,37,9.364,,,130,6.5,8585.0,
+1233506,tt32642156,The Shrinking Man,2025,"Adventure, Science Fiction",Adventure,6.055,137,10.0503,,24350000.0,99,5.9,1609.0,
+242582,tt2872718,Nightcrawler,2014,"Crime, Drama, Thriller",Crime,7.709,11761,10.366,47425835.0,8500000.0,118,7.8,662221.0,32381217.0
+1587124,tt39045215,Bhabiji Ghar Par Hain! Fun on the Run,2026,"Adventure, Comedy, Family, Romance, TV Movie",Adventure,3.5,2,7.3997,,,136,7.6,3141.0,
+75656,tt1670345,Now You See Me,2013,"Thriller, Crime",Thriller,7.331,16826,10.8403,351723989.0,75000000.0,116,7.2,765172.0,117723989.0
+7518,tt0327084,Over the Hedge,2006,"Adventure, Animation, Comedy, Family",Adventure,6.598,4862,10.3641,343397247.0,80000000.0,83,6.7,200382.0,155019340.0
+1058424,tt27369017,Hope,2026,"Science Fiction, Mystery, Action",Science Fiction,0.0,0,9.9169,,,160,,,
+686919,tt11953628,Maska,2020,Comedy,Comedy,5.3,18,6.6861,,,111,5.9,1555.0,
+944864,tt18082758,The Takeover,2022,"Action, Crime, Thriller",Action,5.731,206,7.046,,,87,5.3,5307.0,
+2501,tt0258463,The Bourne Identity,2002,"Action, Mystery, Thriller",Action,7.48,10119,11.4892,214034224.0,60000000.0,119,7.8,609951.0,121661683.0
+1642859,tt36163614,Iron Maiden: Burning Ambition,2026,"Documentary, Music",Documentary,7.2,16,10.2714,2547000.0,,105,,,
+1278,tt0309987,The Dreamers,2003,"Drama, Romance",Drama,7.181,3097,10.2066,15100000.0,15000000.0,115,7.1,140589.0,2532228.0
+126889,tt2316204,Alien: Covenant,2017,"Horror, Science Fiction",Horror,6.2,9447,10.2203,240891763.0,97000000.0,122,6.4,344333.0,74262031.0
+1263256,tt31868189,Happy Gilmore 2,2025,Comedy,Comedy,6.539,964,10.2552,,152000000.0,118,6.1,117123.0,
+137113,tt1631867,Edge of Tomorrow,2014,"Action, Science Fiction",Action,7.64,15113,10.5424,370541256.0,178000000.0,114,7.9,802767.0,100206256.0
+656007,tt8983166,Panga,2020,Romance,Romance,6.741,27,6.8981,,,131,6.8,7999.0,582720.0
+941109,tt18392014,Play Dirty,2025,"Crime, Action, Thriller, Drama",Crime,6.58,634,10.7575,,2500000.0,128,5.9,26133.0,
+635302,tt11032374,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2020,"Animation, Action, Fantasy",Animation,8.214,4543,10.5602,523542183.0,15700000.0,117,8.2,98764.0,49888550.0
+1392501,tt34877041,Lamas,2024,Drama,Drama,6.5,2,10.6357,,,0,,9.0,
+207703,tt2802144,Kingsman: The Secret Service,2015,"Crime, Comedy, Action, Adventure",Crime,7.62,17850,10.8595,414351546.0,81000000.0,129,7.7,775402.0,128261724.0
+530385,tt8772262,Midsommar,2019,"Horror, Drama, Mystery",Horror,7.2,8109,11.3428,48498408.0,9000000.0,147,7.1,481955.0,27426361.0
+287649,tt3958014,Scarlet Innocence,2014,"Thriller, Drama, Romance",Thriller,6.114,70,10.9444,,,111,5.9,1759.0,
+1734,tt0209163,The Mummy Returns,2001,"Adventure, Action, Fantasy",Adventure,6.407,7708,9.8829,443280904.0,98000000.0,130,6.4,362637.0,202019785.0
+14574,tt0914798,The Boy in the Striped Pyjamas,2008,"Drama, War, History",Drama,7.82,7686,9.5471,20416563.0,12500000.0,94,7.7,271521.0,9046156.0
+1271,tt0416449,300,2007,"Action, Adventure, War",Action,7.202,14761,10.4001,456082343.0,65000000.0,117,7.6,904962.0,210629101.0
+616880,tt10463030,Bhoot: Part One - The Haunted Ship,2020,"Horror, Thriller",Horror,5.635,37,6.9177,,,114,5.4,6032.0,
+1007734,tt28996126,Nobody 2,2025,"Action, Thriller, Comedy",Action,6.94,1599,10.1867,43285109.0,25000000.0,89,6.3,89019.0,21604985.0
+575264,tt9603212,Mission: Impossible - Dead Reckoning Part One,2023,"Action, Adventure, Thriller",Action,7.504,5148,9.8314,571125435.0,220000000.0,164,7.6,326383.0,172640980.0
+204082,tt2312718,Homefront,2013,"Action, Thriller",Action,6.943,3865,9.9109,51695362.0,22000000.0,100,6.5,140009.0,20158898.0
+438695,tt6467266,Sing 2,2021,"Animation, Comedy, Family, Music",Animation,7.835,4790,10.345,408402685.0,85000000.0,110,7.3,100000.0,162790990.0
+2832,tt0309698,Identity,2003,"Mystery, Thriller",Mystery,7.188,4382,10.6893,90259536.0,28000000.0,90,7.3,285988.0,52159536.0
+615457,tt7888964,Nobody,2021,"Action, Thriller",Action,7.877,8384,10.2458,57512470.0,16000000.0,91,7.4,391880.0,27568035.0
+458156,tt6146586,John Wick: Chapter 3 - Parabellum,2019,"Action, Thriller, Crime",Action,7.439,11771,9.8567,328349908.0,55000000.0,131,7.4,476412.0,171015687.0
+701387,tt12300742,Bugonia,2025,"Science Fiction, Thriller, Comedy",Science Fiction,7.3,1998,11.8398,43500000.0,55000000.0,119,7.4,177787.0,17692390.0
+1236470,tt21103218,The Lost Bus,2025,"Drama, Thriller",Drama,7.0,739,6.6414,,90000000.0,130,6.8,51736.0,
+8681,tt0936501,Taken,2008,"Action, Thriller",Action,7.407,12132,10.2081,226830568.0,25000000.0,94,7.7,668854.0,145000989.0
+93456,tt1690953,Despicable Me 2,2013,"Animation, Comedy, Family, Science Fiction",Animation,6.9,12010,10.2679,970766005.0,76000000.0,98,7.3,456712.0,368065385.0
+681419,tt3802574,Operation Parindey,2020,"Action, Thriller",Action,3.0,2,6.4799,,,55,4.7,430.0,
+855435,tt14619456,Faces of Death,2026,Horror,Horror,5.553,85,9.0597,2610000.0,7400000.0,97,6.5,1174.0,2148534.0
+1438392,tt33737583,Euphoria,2026,Drama,Drama,7.0,1,15.8747,,,148,8.1,1973.0,
+1438392,tt33737583,Euphoria,2026,Drama,Drama,7.0,1,15.8747,,,148,8.1,1973.0,
+718206,tt9642630,Prawaas,2020,"Drama, Family",Drama,0.0,0,6.4834,,,133,7.8,213.0,
+76492,tt0837562,Hotel Transylvania,2012,"Animation, Comedy, Family, Fantasy",Animation,6.965,9193,11.2249,358375603.0,85000000.0,91,7.0,309621.0,148426305.0
+1022453,tt23790696,The Rajasaab,2026,"Comedy, Horror, Fantasy, Action",Comedy,5.226,31,10.6905,21000000.0,50000000.0,186,3.5,9886.0,
+359724,tt1950186,Ford v Ferrari,2019,"Drama, History",Drama,8.006,9018,11.0982,225508210.0,97600000.0,153,8.1,553839.0,117624357.0
+87101,tt1340138,Terminator Genisys,2015,"Science Fiction, Action, Thriller",Science Fiction,5.957,8993,10.1631,440603537.0,155000000.0,126,6.3,305926.0,89760956.0
+1196656,tt30012687,Sugar Baby,2023,Romance,Romance,5.2,10,10.3918,,,114,,490.0,
+1381027,tt34381258,Good Boy,2026,"Thriller, Drama, Mystery",Thriller,7.223,119,10.1643,,,110,,,
+698508,tt11365186,Redeeming Love,2022,"Romance, Drama, Western",Romance,7.848,748,8.824,9464198.0,30000000.0,134,,,
+572164,tt10648440,EXIT,2019,"Action, Comedy",Action,7.633,301,8.1206,69501772.0,10892000.0,103,,,
+653346,tt11389872,Kingdom of the Planet of the Apes,2024,"Science Fiction, Adventure, Action",Science Fiction,7.054,4272,10.9611,397378150.0,160000000.0,145,,,
+1380316,tt34379307,Is God Is,2026,"Drama, Thriller",Drama,6.1,46,8.6557,4857896.0,14800000.0,100,,,
+32657,tt0814255,Percy Jackson & the Olympians: The Lightning Thief,2010,"Adventure, Fantasy, Family",Adventure,6.213,7834,10.2846,226497209.0,95000000.0,118,,,
+76493,tt1645170,The Dictator,2012,Comedy,Comedy,6.233,6469,9.8427,179379533.0,65000000.0,83,,,
+655459,tt9817760,Jai Mummy Di,2020,"Comedy, Romance",Comedy,4.9,20,6.6972,,,103,,,
+346364,tt1396484,It,2017,"Horror, Thriller, Drama",Horror,7.241,20362,10.006,719766009.0,35000000.0,135,,,
+1198380,tt29458284,Everybody Loves Sohrab Handa,2023,"Thriller, Mystery, Drama, Crime",Thriller,6.0,1,6.4702,,,99,,,
