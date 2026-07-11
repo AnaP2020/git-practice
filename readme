@@ -1,0 +1,220 @@
+Music Analytics: Spotify Popularity and Grammy Recognition
+
+Project Overview
+
+This project was developed as part of the Ironhack Database Systems module.
+
+The objective was to design and implement a relational database using SQL and Python, integrating data from Spotify and the Grammy Awards to explore the relationship between commercial popularity and critical recognition in the music industry.
+
+The project includes:
+
+- Data cleaning and preprocessing with Python
+- Relational database design
+- SQL database creation in MySQL
+- SQL queries to answer business questions
+- Data visualization using Python (Matplotlib)
+
+---
+
+Business Problem
+
+Music success can be measured in different ways.
+
+Streaming platforms like Spotify reflect popularity, while Grammy Awards represent industry recognition.
+
+This project investigates whether these two measures are related by answering the following research questions:
+
+1. Which music genres have the highest average Spotify popularity among the Top 50 songs of 2019?
+2. Is Grammy recognition associated with Spotify popularity?
+
+---
+
+Data Sources
+
+Two public datasets from Kaggle were used:
+
+Spotify Top 50 Songs (2019)
+
+Contains information about:
+
+- Track name
+- Artist
+- Genre
+- Popularity
+- Audio features (Energy, Danceability, BPM, Valence, etc.)
+
+Grammy Award Nominees and Winners
+
+Contains:
+
+- Award year
+- Nominee
+- Award category
+- Winning status
+
+The Grammy dataset was filtered to include only the 2019 Grammy Awards to match the Spotify dataset.
+
+---
+
+Database Design
+
+The database was normalized into five related tables:
+
+- Artists
+- Genres
+- Tracks
+- Audio_Features
+- Grammy_Nominations
+
+Relationships were established using primary and foreign keys to reduce redundancy and improve query efficiency.
+
+---
+
+Technologies Used
+
+- Python
+- Pandas
+- MySQL
+- MySQL Workbench
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+Project Structure
+
+```
+Music-Analytics/
+│
+├── data/
+│   ├── spotify_top50.csv
+│   └── grammy_awards.csv
+│
+├── data_wrangling_music.py
+├── create_database.py
+├── insert_data.py
+├── queries.sql
+├── visualizations.ipynb
+│
+├── presentation.pdf
+├── README.md
+```
+
+---
+
+Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/music-analytics.git
+```
+
+Move into the project folder:
+
+```bash
+cd music-analytics
+```
+
+Install the required packages:
+
+```bash
+pip install pandas mysql-connector-python matplotlib jupyter
+```
+
+---
+
+Running the Project
+
+1. Clean and prepare the datasets
+
+```bash
+python data_wrangling_music.py
+```
+
+2. Create the MySQL database
+
+```bash
+python create_database.py
+```
+
+3. Insert the data into the database
+
+```bash
+python insert_data.py
+```
+
+4. Run the SQL queries
+
+Open MySQL Workbench and execute:
+
+```
+queries.sql
+```
+
+5. Generate the visualizations
+
+Open:
+
+```
+visualizations.ipynb
+```
+
+Run all notebook cells.
+
+---
+
+Main Findings
+
+Research Question 1
+
+Which genres have the highest average Spotify popularity?
+
+- DFW Rap, Electropop and Reggaeton showed the highest average popularity.
+- Pop-related genres performed well but were not consistently the most popular.
+
+Hypothesis: Partially supported.
+
+---
+
+Research Question 2
+
+Is Grammy recognition associated with Spotify popularity?
+
+- Artists with more Grammy nominations generally had high Spotify popularity.
+- However, some artists with only one nomination also achieved very high popularity.
+
+Hypothesis: Partially supported.
+
+---
+
+Visualizations
+
+The project includes:
+
+- Average Spotify Popularity by Genre
+- Grammy Nominations Among Spotify Top 50 Artists
+- Grammy Nominations vs Spotify Popularity
+
+---
+
+Future Improvements
+
+Possible extensions include:
+
+- Include multiple years instead of only 2019
+- Analyze Spotify streams instead of popularity score
+- Include additional music awards
+- Perform predictive analysis using machine learning
+
+---
+
+Authors
+
+- Ana Rita Preto
+- Ailixier Kuerban
+
+Ironhack — Database Systems Project
+
+The complete project presentation is available in the link:
+https://docs.google.com/presentation/d/1M8Qm7MO8it21ENBiqnw3RVHAeM0aBDQ9RyfKwmjJgDA/edit?usp=drive_link
